@@ -1,0 +1,732 @@
+,date,center_id,name,state_name,district_name,block_name,pincode,lat,long,fee_type,session_id,available_capacity,min_age_limit,vaccine,snap_dt
+0,03-05-2021,171050,Chc Kasdol,Chhattisgarh,Baloda bazar,Kasdol,493335,21,82,Free,aeb62ebb-e449-44f3-8674-1939ba4ef7e5,5,18,,03/05/2021 05:11:49
+0,03-05-2021,571469,CHC Chhura 18,Chhattisgarh,Gariaband,Chhura,493996,20,82,Free,e13eaa8c-e0ce-4c67-aa58-9f3ccdd7a41c,10,18,,03/05/2021 05:11:49
+0,04-05-2021,571469,CHC Chhura 18,Chhattisgarh,Gariaband,Chhura,493996,20,82,Free,61ccb29a-a602-491a-bf12-6cd00f25becb,9,18,,03/05/2021 05:11:49
+0,05-05-2021,571469,CHC Chhura 18,Chhattisgarh,Gariaband,Chhura,493996,20,82,Free,a86d0275-8947-46dc-ac4f-d835d5b4ce1a,7,18,,03/05/2021 05:11:49
+0,03-05-2021,693782,SBV Rani Jhansi Road SITE 4,Delhi,Central Delhi,Not Applicable,110055,28,28,Free,f1d03639-2daa-45ef-b90f-212272a0231a,89,18,,03/05/2021 05:11:49
+0,04-05-2021,693782,SBV Rani Jhansi Road SITE 4,Delhi,Central Delhi,Not Applicable,110055,28,28,Free,ff07bfb3-27b6-4527-a2e5-5ddf66abc8d8,123,18,,03/05/2021 05:11:49
+0,05-05-2021,693782,SBV Rani Jhansi Road SITE 4,Delhi,Central Delhi,Not Applicable,110055,28,28,Free,b7351a9b-f580-46ae-98d6-c90436fb749d,142,18,,03/05/2021 05:11:49
+0,03-05-2021,693774,SBV JAMA MASJID HINDI SITE 5,Delhi,Central Delhi,Not Applicable,110006,28,77,Free,6974e63f-933f-461e-b624-01506c965c6d,106,18,,03/05/2021 05:11:49
+0,04-05-2021,693774,SBV JAMA MASJID HINDI SITE 5,Delhi,Central Delhi,Not Applicable,110006,28,77,Free,dc99a5b9-a711-4916-91a8-5fe30933cfe4,143,18,,03/05/2021 05:11:49
+0,05-05-2021,693774,SBV JAMA MASJID HINDI SITE 5,Delhi,Central Delhi,Not Applicable,110006,28,77,Free,d4cb8df5-b763-4bdd-800b-b5726866c2bf,144,18,,03/05/2021 05:11:49
+0,03-05-2021,693752,Sarvodhya V Mori G NO.1 SITE 3,Delhi,Central Delhi,Not Applicable,110006,28,77,Free,df2f2598-95e0-4246-9537-a7e4319dec3b,55,18,,03/05/2021 05:11:49
+0,04-05-2021,693752,Sarvodhya V Mori G NO.1 SITE 3,Delhi,Central Delhi,Not Applicable,110006,28,77,Free,8260595b-887b-4da2-ad08-d6117a9b4824,138,18,,03/05/2021 05:11:49
+0,05-05-2021,693752,Sarvodhya V Mori G NO.1 SITE 3,Delhi,Central Delhi,Not Applicable,110006,28,77,Free,00a90303-d49d-49e3-b38b-487c5eafed62,133,18,,03/05/2021 05:11:49
+0,04-05-2021,693748,GSBV BURARI SITE 5,Delhi,Central Delhi,Not Applicable,110084,28,77,Free,4b3eae8d-8130-4899-9224-cdd100b06eb8,55,18,,03/05/2021 05:11:49
+0,05-05-2021,693748,GSBV BURARI SITE 5,Delhi,Central Delhi,Not Applicable,110084,28,77,Free,dd244442-b80e-4ee5-9e5e-450be9a85b19,85,18,,03/05/2021 05:11:49
+0,03-05-2021,693787,VBGSSS NPL COLONY SITE 2,Delhi,Central Delhi,Not Applicable,110060,28,77,Free,89503345-bf55-45f6-80ef-d4142d08f059,28,18,,03/05/2021 05:11:49
+0,04-05-2021,693787,VBGSSS NPL COLONY SITE 2,Delhi,Central Delhi,Not Applicable,110060,28,77,Free,9bdb2e61-b243-4700-8da9-01e6bce41ff5,101,18,,03/05/2021 05:11:49
+0,05-05-2021,693787,VBGSSS NPL COLONY SITE 2,Delhi,Central Delhi,Not Applicable,110060,28,77,Free,e07eb26a-ad9a-48b9-b3c4-b9c8b0a8d17e,104,18,,03/05/2021 05:11:49
+0,03-05-2021,693451,SBV Rani Jhansi Road SITE 1,Delhi,Central Delhi,Not Applicable,110055,28,77,Free,636ecbea-eeb0-4365-b6df-72376af82725,2,18,,03/05/2021 05:11:49
+0,05-05-2021,693451,SBV Rani Jhansi Road SITE 1,Delhi,Central Delhi,Not Applicable,110055,28,77,Free,84ebd751-c268-4222-bc48-7a2c41c4439e,36,18,,03/05/2021 05:11:49
+0,04-05-2021,693790,VBGSSS NPL COLONY SITE 4,Delhi,Central Delhi,Not Applicable,110060,28,77,Free,798460ea-bef8-4040-9f3b-50d451f459a4,124,18,,03/05/2021 05:11:49
+0,05-05-2021,693790,VBGSSS NPL COLONY SITE 4,Delhi,Central Delhi,Not Applicable,110060,28,77,Free,2b5682cd-e645-43dd-a4bb-560cd51b98b9,125,18,,03/05/2021 05:11:49
+0,03-05-2021,693754,Sarvodhya V Mori G NO.1 SITE 4,Delhi,Central Delhi,Not Applicable,110006,28,77,Free,3734894c-9123-4c4c-82f4-5f812f3c2d69,113,18,,03/05/2021 05:11:49
+0,04-05-2021,693754,Sarvodhya V Mori G NO.1 SITE 4,Delhi,Central Delhi,Not Applicable,110006,28,77,Free,dcb17d5a-fe15-4fa9-bd4e-31d99fc60750,88,18,,03/05/2021 05:11:49
+0,05-05-2021,693754,Sarvodhya V Mori G NO.1 SITE 4,Delhi,Central Delhi,Not Applicable,110006,28,77,Free,c64367db-2b56-4322-b70a-6ccb8ce5df3b,1455,18,,03/05/2021 05:11:49
+0,04-05-2021,693777,SBV Rani Jhansi Road SITE 2,Delhi,Central Delhi,Not Applicable,110055,28,77,Free,e6e9da63-5b51-4649-86fa-cca540c3a593,59,18,,03/05/2021 05:11:49
+0,05-05-2021,693777,SBV Rani Jhansi Road SITE 2,Delhi,Central Delhi,Not Applicable,110055,28,77,Free,5ced7c68-94d6-4ce0-8ec1-f09545eb8200,106,18,,03/05/2021 05:11:49
+0,04-05-2021,693803,RPVV Link Road Karol B SITE 5,Delhi,Central Delhi,Not Applicable,110005,28,77,Free,1dcc4a4d-2de5-4b04-a272-92cc0295ddd3,39,18,,03/05/2021 05:11:49
+0,05-05-2021,693803,RPVV Link Road Karol B SITE 5,Delhi,Central Delhi,Not Applicable,110005,28,77,Free,9ef663d4-1361-478c-b39d-ef3d7a0b99c8,85,18,,03/05/2021 05:11:49
+0,04-05-2021,693789,VBGSSS NPL COLONY SITE 3,Delhi,Central Delhi,Not Applicable,110060,28,77,Free,f3547b93-109b-4f74-9c0b-eb5bec1b9c4d,11,18,,03/05/2021 05:11:49
+0,05-05-2021,693789,VBGSSS NPL COLONY SITE 3,Delhi,Central Delhi,Not Applicable,110060,28,77,Free,e2f702e3-d0ff-4b7b-821e-43ebdefe7c46,74,18,,03/05/2021 05:11:49
+0,03-05-2021,693450,SBV JAMA MASJID URDU SITE 1,Delhi,Central Delhi,Not Applicable,110006,28,77,Free,f509d4e0-acf7-4e46-b335-f58a00632b4e,110,18,,03/05/2021 05:11:49
+0,04-05-2021,693450,SBV JAMA MASJID URDU SITE 1,Delhi,Central Delhi,Not Applicable,110006,28,77,Free,ae610701-df88-4ecf-8267-07e1be7dabef,116,18,,03/05/2021 05:11:49
+0,05-05-2021,693450,SBV JAMA MASJID URDU SITE 1,Delhi,Central Delhi,Not Applicable,110006,28,77,Free,5c0f201b-34ab-43ae-b0e1-4694a109dba9,128,18,,03/05/2021 05:11:49
+0,03-05-2021,693756,Sarvodhya V Mori G NO.1 SITE 5,Delhi,Central Delhi,Not Applicable,110006,28,77,Free,81f36fbc-ae6c-4d88-9c6b-4129b6e115af,124,18,,03/05/2021 05:11:49
+0,04-05-2021,693756,Sarvodhya V Mori G NO.1 SITE 5,Delhi,Central Delhi,Not Applicable,110006,28,77,Free,1dc597b5-9dc4-411c-a4d0-cde76ec83e69,139,18,,03/05/2021 05:11:49
+0,05-05-2021,693756,Sarvodhya V Mori G NO.1 SITE 5,Delhi,Central Delhi,Not Applicable,110006,28,77,Free,99cc2926-45d5-4365-94d7-617496712fc3,149,18,,03/05/2021 05:11:49
+0,03-05-2021,693763,SBV JAMA MASJID URDU SITE 2,Delhi,Central Delhi,Not Applicable,110006,28,77,Free,33d13e88-3664-4820-bb4b-b936e28ac7c8,145,18,,03/05/2021 05:11:49
+0,04-05-2021,693763,SBV JAMA MASJID URDU SITE 2,Delhi,Central Delhi,Not Applicable,110006,28,77,Free,f7e60037-5a9d-4425-a43f-c41c157256e5,146,18,,03/05/2021 05:11:49
+0,05-05-2021,693763,SBV JAMA MASJID URDU SITE 2,Delhi,Central Delhi,Not Applicable,110006,28,77,Free,c2b3d048-0b5d-4bdc-8aff-f969dae17253,148,18,,03/05/2021 05:11:49
+0,03-05-2021,693780,SBV Rani Jhansi Road SITE 3,Delhi,Central Delhi,Not Applicable,110055,28,77,Free,3cc0a147-ec64-4ec8-aa36-9b622973d2d5,44,18,,03/05/2021 05:11:49
+0,04-05-2021,693780,SBV Rani Jhansi Road SITE 3,Delhi,Central Delhi,Not Applicable,110055,28,77,Free,93bdc0d1-05b0-46ae-a18c-7dcfcacf2b18,140,18,,03/05/2021 05:11:49
+0,05-05-2021,693780,SBV Rani Jhansi Road SITE 3,Delhi,Central Delhi,Not Applicable,110055,28,77,Free,b924e696-2ac9-49d1-811f-60597238ddb2,137,18,,03/05/2021 05:11:49
+0,05-05-2021,693800,RPVV Link Road Karol B SITE 4,Delhi,Central Delhi,Not Applicable,110005,28,77,Free,3f7c8b94-69e7-4e51-a0d4-b63109787869,104,18,,03/05/2021 05:11:49
+0,03-05-2021,693750,Sarvodhya V Mori G NO.1 SITE 2,Delhi,Central Delhi,Not Applicable,110006,28,77,Free,9a9590d8-e272-493c-903c-9c54bc12b809,1302,18,,03/05/2021 05:11:49
+0,04-05-2021,693750,Sarvodhya V Mori G NO.1 SITE 2,Delhi,Central Delhi,Not Applicable,110006,28,77,Free,be4ef1bb-70ac-44b7-a9f0-5bf45b12ccd9,142,18,,03/05/2021 05:11:49
+0,05-05-2021,693750,Sarvodhya V Mori G NO.1 SITE 2,Delhi,Central Delhi,Not Applicable,110006,28,77,Free,1deaa314-d142-42db-a5b4-110be9326ae9,124,18,,03/05/2021 05:11:49
+0,03-05-2021,693784,SBV Rani Jhansi Road SITE 5,Delhi,Central Delhi,Not Applicable,110055,28,77,Free,f0957c50-1083-4fe6-b477-8017d99624af,101,18,,03/05/2021 05:11:49
+0,04-05-2021,693784,SBV Rani Jhansi Road SITE 5,Delhi,Central Delhi,Not Applicable,110055,28,77,Free,6542de4e-3fe7-4fcb-be33-40c68fcfa056,112,18,,03/05/2021 05:11:49
+0,05-05-2021,693784,SBV Rani Jhansi Road SITE 5,Delhi,Central Delhi,Not Applicable,110055,28,77,Free,7e93be6f-4a27-4e04-ab7e-09d0dd9ba5a3,137,18,,03/05/2021 05:11:49
+0,05-05-2021,693746,GSBV BURARI SITE 3,Delhi,Central Delhi,Not Applicable,110084,28,77,Free,223510bc-9030-4ab6-a99f-735338faef83,84,18,,03/05/2021 05:11:49
+0,03-05-2021,693768,SBV JAMA MASJID URDU SITE 3,Delhi,Central Delhi,Not Applicable,110006,28,77,Free,dcdf2b5d-2771-4f63-92b1-33f2c89359ea,150,18,,03/05/2021 05:11:49
+0,04-05-2021,693768,SBV JAMA MASJID URDU SITE 3,Delhi,Central Delhi,Not Applicable,110006,28,77,Free,27430f9b-217f-4d54-88f8-c40d4d34a603,143,18,,03/05/2021 05:11:49
+0,05-05-2021,693768,SBV JAMA MASJID URDU SITE 3,Delhi,Central Delhi,Not Applicable,110006,28,77,Free,59c75e76-4aa2-434e-bf97-cf636c459088,149,18,,03/05/2021 05:11:49
+0,05-05-2021,693797,RPVV Link Road Karol B SITE 3,Delhi,Central Delhi,Not Applicable,110005,28,77,Free,636c9cba-bdcc-47cc-ae2d-e7b0ef060a60,69,18,,03/05/2021 05:11:49
+0,03-05-2021,693772,SBV JAMA MASJID HINDI SITE 4,Delhi,Central Delhi,Not Applicable,110006,28,77,Free,60ef0efe-cc99-4e2d-abcf-e912acfc5eed,97,18,,03/05/2021 05:11:49
+0,04-05-2021,693772,SBV JAMA MASJID HINDI SITE 4,Delhi,Central Delhi,Not Applicable,110006,28,77,Free,5cb3317d-a3ad-48aa-b267-8be87130f5b2,133,18,,03/05/2021 05:11:49
+0,05-05-2021,693772,SBV JAMA MASJID HINDI SITE 4,Delhi,Central Delhi,Not Applicable,110006,28,77,Free,3b3dd0af-e321-41d3-8b43-1f841dd83280,140,18,,03/05/2021 05:11:49
+0,04-05-2021,693747,GSBV BURARI SITE 4,Delhi,Central Delhi,Not Applicable,110084,28,77,Free,32962b52-debd-485f-bea3-732fad7d9538,41,18,,03/05/2021 05:11:49
+0,05-05-2021,693747,GSBV BURARI SITE 4,Delhi,Central Delhi,Not Applicable,110084,28,77,Free,b48b28aa-61dc-44a4-a582-cda9c83364a5,95,18,,03/05/2021 05:11:49
+0,04-05-2021,693446,Sarvodhya V Mori G NO.1 SITE 1,Delhi,Central Delhi,Not Applicable,110006,28,77,Free,9392f62a-e5c9-43d4-a527-3826bd6eb7b2,13,18,,03/05/2021 05:11:49
+0,05-05-2021,693446,Sarvodhya V Mori G NO.1 SITE 1,Delhi,Central Delhi,Not Applicable,110006,28,77,Free,40e036a5-d0d0-4cc1-82a2-f9cf974a943a,101,18,,03/05/2021 05:11:49
+0,03-05-2021,693791,VBGSSS NPL COLONY SITE 5,Delhi,Central Delhi,Not Applicable,110060,28,77,Free,6ac8ab63-6d51-4857-9b42-5167263c52ae,4,18,,03/05/2021 05:11:49
+0,04-05-2021,693791,VBGSSS NPL COLONY SITE 5,Delhi,Central Delhi,Not Applicable,110060,28,77,Free,90a0d784-0817-4285-aed2-f098e26228c6,134,18,,03/05/2021 05:11:49
+0,05-05-2021,693791,VBGSSS NPL COLONY SITE 5,Delhi,Central Delhi,Not Applicable,110060,28,77,Free,45062eb0-1611-449d-8be8-58f4a9ad683f,120,18,,03/05/2021 05:11:49
+0,03-05-2021,693557,Sarvodaya School Sec 6 Site 1.,Delhi,New Delhi,Not Applicable,110022,28,77,Free,a3448f81-a8f4-4c7c-b1d5-dff4326b7693,1,18,,03/05/2021 05:11:49
+0,03-05-2021,693886,GBSS School Jahangirpuri 2,Delhi,North Delhi,Not Applicable,110033,28,77,Free,f45d0844-1884-4388-b516-d8481ddfc669,36,18,,03/05/2021 05:11:49
+0,04-05-2021,693886,GBSS School Jahangirpuri 2,Delhi,North Delhi,Not Applicable,110033,28,77,Free,ef7e73af-4289-4479-bb5f-03ea5dc95574,88,18,,03/05/2021 05:11:49
+0,05-05-2021,693886,GBSS School Jahangirpuri 2,Delhi,North Delhi,Not Applicable,110033,28,77,Free,a6254d3d-b66f-432b-91be-9aad5f269789,103,18,,03/05/2021 05:11:49
+0,03-05-2021,693947,Gov.Girls S.Sec.Sch.No.1 Site4,Delhi,North Delhi,Not Applicable,110039,28,77,Free,6cd77284-26f4-4d86-9be5-187361b5491f,144,18,,03/05/2021 05:11:49
+0,04-05-2021,693947,Gov.Girls S.Sec.Sch.No.1 Site4,Delhi,North Delhi,Not Applicable,110039,28,77,Free,75177c2a-2735-4a3b-b232-ba03db909e88,148,18,,03/05/2021 05:11:49
+0,05-05-2021,693947,Gov.Girls S.Sec.Sch.No.1 Site4,Delhi,North Delhi,Not Applicable,110039,28,77,Free,c2624cc2-993c-4b4d-bf98-0d3164ae0958,148,18,,03/05/2021 05:11:49
+0,03-05-2021,693912,Govt. Girl Senior Sec.School 2,Delhi,North Delhi,Not Applicable,110042,28,77,Free,622f704d-b1bf-493c-87b0-d02cbca1ad05,55,18,,03/05/2021 05:11:49
+0,04-05-2021,693912,Govt. Girl Senior Sec.School 2,Delhi,North Delhi,Not Applicable,110042,28,77,Free,60a4c97b-49d4-4c81-978c-7054121e1cd6,84,18,,03/05/2021 05:11:49
+0,05-05-2021,693912,Govt. Girl Senior Sec.School 2,Delhi,North Delhi,Not Applicable,110042,28,77,Free,0118482e-dff9-4f5c-8119-90dfcf352cd4,125,18,,03/05/2021 05:11:49
+0,03-05-2021,693978,Sarvodaya Bal Vidyalaya 5,Delhi,North Delhi,Not Applicable,110039,28,77,Free,e4a44532-bd1d-419c-ada0-d2fd3e749b01,150,18,,03/05/2021 05:11:49
+0,04-05-2021,693978,Sarvodaya Bal Vidyalaya 5,Delhi,North Delhi,Not Applicable,110039,28,77,Free,73e00bc9-cc71-4d7f-bb29-529ebfcbfa27,148,18,,03/05/2021 05:11:49
+0,05-05-2021,693978,Sarvodaya Bal Vidyalaya 5,Delhi,North Delhi,Not Applicable,110039,28,77,Free,5925252f-42d2-47fd-ade0-ceec7f55f180,149,18,,03/05/2021 05:11:49
+0,03-05-2021,693921,Govt.Girls SeniorSec. School5,Delhi,North Delhi,Not Applicable,110042,28,77,Free,512406a4-8402-4ecc-b0c6-f2e732e27cfd,141,18,,03/05/2021 05:11:49
+0,04-05-2021,693921,Govt.Girls SeniorSec. School5,Delhi,North Delhi,Not Applicable,110042,28,77,Free,7aa12237-b619-47d4-b17c-3db3a9c4c1f3,149,18,,03/05/2021 05:11:49
+0,05-05-2021,693921,Govt.Girls SeniorSec. School5,Delhi,North Delhi,Not Applicable,110042,28,77,Free,302ad71c-4027-456b-aa21-9d8173cd3bdb,142,18,,03/05/2021 05:11:49
+0,04-05-2021,693907,SCSDS Vidyalaya 4,Delhi,North Delhi,Not Applicable,110085,28,77,Free,12aa6e76-1f59-4317-8e9b-f168234b39ea,1,18,,03/05/2021 05:11:49
+0,05-05-2021,693907,SCSDS Vidyalaya 4,Delhi,North Delhi,Not Applicable,110085,28,77,Free,43081054-0160-4245-9abe-cbc666c6a246,6,18,,03/05/2021 05:11:49
+0,03-05-2021,693974,Sarvodaya Bal Vidyalaya 4,Delhi,North Delhi,Not Applicable,110039,28,77,Free,904ac171-14d5-474b-90bb-44d9205996b6,149,18,,03/05/2021 05:11:49
+0,04-05-2021,693974,Sarvodaya Bal Vidyalaya 4,Delhi,North Delhi,Not Applicable,110039,28,77,Free,8e997f2c-5039-4534-aaaa-93e8621b6bbe,150,18,,03/05/2021 05:11:49
+0,05-05-2021,693974,Sarvodaya Bal Vidyalaya 4,Delhi,North Delhi,Not Applicable,110039,28,77,Free,279d2a30-4dad-4216-b1cb-5bac1c2063ca,150,18,,03/05/2021 05:11:49
+0,03-05-2021,693827,SKV A Block Jahangirpuri,Delhi,North Delhi,Not Applicable,110033,28,77,Free,da6a7fca-1c36-4b9d-a2e3-11ad3da690a8,56,18,,03/05/2021 05:11:49
+0,04-05-2021,693827,SKV A Block Jahangirpuri,Delhi,North Delhi,Not Applicable,110033,28,77,Free,87f6c87f-98bb-4247-8a91-ef18476ab258,104,18,,03/05/2021 05:11:49
+0,05-05-2021,693827,SKV A Block Jahangirpuri,Delhi,North Delhi,Not Applicable,110033,28,77,Free,7ef1d893-c640-4396-a656-3b4a1452999c,129,18,,03/05/2021 05:11:49
+0,03-05-2021,693938,Gov.Girls S.Sec.Sch.No.1 Site2,Delhi,North Delhi,Not Applicable,110039,28,77,Free,add31582-9c03-4bbd-b725-80aced9b56b2,114,18,,03/05/2021 05:11:49
+0,04-05-2021,693938,Gov.Girls S.Sec.Sch.No.1 Site2,Delhi,North Delhi,Not Applicable,110039,28,77,Free,84a27c79-6bc9-4d98-8da4-6cccb0e25627,118,18,,03/05/2021 05:11:49
+0,05-05-2021,693938,Gov.Girls S.Sec.Sch.No.1 Site2,Delhi,North Delhi,Not Applicable,110039,28,77,Free,adbb91ec-7bb8-438a-b5be-922cf51de4a7,128,18,,03/05/2021 05:11:49
+0,03-05-2021,693944,Gov.Girls S.Sec.Sch.No.1 Site3,Delhi,North Delhi,Not Applicable,110039,28,77,Free,ea886f89-7f69-4433-bd95-07c8af5b7279,146,18,,03/05/2021 05:11:49
+0,04-05-2021,693944,Gov.Girls S.Sec.Sch.No.1 Site3,Delhi,North Delhi,Not Applicable,110039,28,77,Free,644bd6b6-802e-403b-9ab4-82d7fbf9d996,150,18,,03/05/2021 05:11:49
+0,05-05-2021,693944,Gov.Girls S.Sec.Sch.No.1 Site3,Delhi,North Delhi,Not Applicable,110039,28,77,Free,d9f01190-65f7-495e-a2cc-947611a9c7a3,149,18,,03/05/2021 05:11:49
+0,03-05-2021,693913,Govt.Girl Senior Sec. School 3,Delhi,North Delhi,Not Applicable,110042,28,77,Free,ac8fc5fe-f8ba-4df2-8473-4a7f43e112d4,141,18,,03/05/2021 05:11:49
+0,04-05-2021,693913,Govt.Girl Senior Sec. School 3,Delhi,North Delhi,Not Applicable,110042,28,77,Free,6d4233a4-2d6f-4fdb-971b-e96e174533bd,148,18,,03/05/2021 05:11:49
+0,05-05-2021,693913,Govt.Girl Senior Sec. School 3,Delhi,North Delhi,Not Applicable,110042,28,77,Free,76dabd79-93a6-4f07-98a8-86c48d100840,143,18,,03/05/2021 05:11:49
+0,03-05-2021,693894,GBSS School Jahangirpuri 4,Delhi,North Delhi,Not Applicable,110033,28,77,Free,b3fd6593-d214-4ece-a0d0-76a28cfded3a,150,18,,03/05/2021 05:11:49
+0,04-05-2021,693894,GBSS School Jahangirpuri 4,Delhi,North Delhi,Not Applicable,110033,28,77,Free,9b940fd9-94b0-4aea-9778-c3e80cd25dd3,149,18,,03/05/2021 05:11:49
+0,05-05-2021,693894,GBSS School Jahangirpuri 4,Delhi,North Delhi,Not Applicable,110033,28,77,Free,c3bc2231-8cd4-4b09-bbae-514081c8a597,145,18,,03/05/2021 05:11:49
+0,03-05-2021,693896,GBSS School Jahangirpuri 5,Delhi,North Delhi,Not Applicable,110033,28,77,Free,74ba109b-aea2-409d-9feb-06f24e442204,149,18,,03/05/2021 05:11:49
+0,04-05-2021,693896,GBSS School Jahangirpuri 5,Delhi,North Delhi,Not Applicable,110033,28,77,Free,a13d5487-49bb-4e28-a5da-301a31e4cbc4,149,18,,03/05/2021 05:11:49
+0,05-05-2021,693896,GBSS School Jahangirpuri 5,Delhi,North Delhi,Not Applicable,110033,28,77,Free,26f0656f-1771-4f5b-a85f-7f5b1f9d81f2,146,18,,03/05/2021 05:11:49
+0,03-05-2021,693865,SKV A Block Jahangirpuri 4,Delhi,North Delhi,Not Applicable,110033,28,77,Free,667cd471-c391-4757-b9e3-bea34d7f441f,147,18,,03/05/2021 05:11:49
+0,04-05-2021,693865,SKV A Block Jahangirpuri 4,Delhi,North Delhi,Not Applicable,110033,28,77,Free,9c240997-860b-4838-9332-12d9f7e600c1,146,18,,03/05/2021 05:11:49
+0,05-05-2021,693865,SKV A Block Jahangirpuri 4,Delhi,North Delhi,Not Applicable,110033,28,77,Free,a2485bf5-bc81-45f5-a0b4-8be6d45197b4,143,18,,03/05/2021 05:11:49
+0,03-05-2021,693911,Govt. Girls Senior Sec. School,Delhi,North Delhi,Not Applicable,110042,28,77,Free,78111705-c354-4943-aa07-ca5f04bd9149,75,18,,03/05/2021 05:11:49
+0,04-05-2021,693911,Govt. Girls Senior Sec. School,Delhi,North Delhi,Not Applicable,110042,28,77,Free,8df7d0c7-f461-4fb8-bc30-48e1b6566e82,134,18,,03/05/2021 05:11:49
+0,05-05-2021,693911,Govt. Girls Senior Sec. School,Delhi,North Delhi,Not Applicable,110042,28,77,Free,b7c7b87c-86a7-4735-b7e8-88afbc03484d,129,18,,03/05/2021 05:11:49
+0,03-05-2021,693873,SKV A Block Jahangirpuri 5,Delhi,North Delhi,Not Applicable,110033,28,77,Free,f2ad47cc-c115-4395-ba47-51462ee71214,7,18,,03/05/2021 05:11:49
+0,04-05-2021,693873,SKV A Block Jahangirpuri 5,Delhi,North Delhi,Not Applicable,110033,28,77,Free,609583c3-f2e3-45b9-9ccd-7422a846623d,2,18,,03/05/2021 05:11:49
+0,05-05-2021,693873,SKV A Block Jahangirpuri 5,Delhi,North Delhi,Not Applicable,110033,28,77,Free,5a797fa9-df8a-4a65-84ea-00388735c628,9,18,,03/05/2021 05:11:49
+0,03-05-2021,693835,SKV A Block Jahangirpuri 2,Delhi,North Delhi,Not Applicable,110033,28,77,Free,c891e58e-4e79-4246-8855-606d8be57f3f,131,18,,03/05/2021 05:11:49
+0,04-05-2021,693835,SKV A Block Jahangirpuri 2,Delhi,North Delhi,Not Applicable,110033,28,77,Free,6201712d-af53-4b41-a8f0-d9c3f741d207,114,18,,03/05/2021 05:11:49
+0,05-05-2021,693835,SKV A Block Jahangirpuri 2,Delhi,North Delhi,Not Applicable,110033,28,77,Free,69f7d403-f203-4744-8b29-620e9837c260,138,18,,03/05/2021 05:11:49
+0,03-05-2021,693900,SCSDS Vidyalaya 1,Delhi,North Delhi,Not Applicable,110085,28,77,Free,749e5282-beb0-4777-bf5b-0edb34220dac,79,18,,03/05/2021 05:11:49
+0,04-05-2021,693900,SCSDS Vidyalaya 1,Delhi,North Delhi,Not Applicable,110085,28,77,Free,16ca04a4-3af4-4a89-9d96-6d37f68f29f0,105,18,,03/05/2021 05:11:49
+0,05-05-2021,693900,SCSDS Vidyalaya 1,Delhi,North Delhi,Not Applicable,110085,28,77,Free,c0d852df-ba06-4489-96b4-07df12fe88ed,116,18,,03/05/2021 05:11:49
+0,03-05-2021,693902,SCSDS Vidyalaya 2,Delhi,North Delhi,Not Applicable,110085,28,77,Free,cae698bf-0712-4105-9962-4af414e536ba,4,18,,03/05/2021 05:11:49
+0,03-05-2021,693954,Gov.Girls S.Sec.Sch.No.1 Site5,Delhi,North Delhi,Not Applicable,110039,28,77,Free,5f7e80df-2603-4944-8fb6-783f33961711,141,18,,03/05/2021 05:11:49
+0,04-05-2021,693954,Gov.Girls S.Sec.Sch.No.1 Site5,Delhi,North Delhi,Not Applicable,110039,28,77,Free,f8d7b0d5-27c2-404a-9deb-21727a288bda,150,18,,03/05/2021 05:11:49
+0,05-05-2021,693954,Gov.Girls S.Sec.Sch.No.1 Site5,Delhi,North Delhi,Not Applicable,110039,28,77,Free,f13884ab-a0a6-4a77-aa0b-55d429183f05,149,18,,03/05/2021 05:11:49
+0,03-05-2021,693965,Sarvodaya Bal Vidyalaya 1,Delhi,North Delhi,Not Applicable,110039,28,77,Free,e9a6a5dd-5403-4108-a71c-977a5b5a1656,143,18,,03/05/2021 05:11:49
+0,04-05-2021,693965,Sarvodaya Bal Vidyalaya 1,Delhi,North Delhi,Not Applicable,110039,28,77,Free,5c56cc80-717d-4a6f-950c-5d395a92e968,139,18,,03/05/2021 05:11:49
+0,05-05-2021,693965,Sarvodaya Bal Vidyalaya 1,Delhi,North Delhi,Not Applicable,110039,28,77,Free,457ff0b7-1fa0-4927-af1b-3097d706afd7,148,18,,03/05/2021 05:11:49
+0,03-05-2021,693971,Sarvodaya Bal Vidyalaya 3,Delhi,North Delhi,Not Applicable,110039,28,77,Free,16333bd1-eefb-47af-8c6b-72380248c9f6,150,18,,03/05/2021 05:11:49
+0,04-05-2021,693971,Sarvodaya Bal Vidyalaya 3,Delhi,North Delhi,Not Applicable,110039,28,77,Free,2b333f1c-30ef-4070-891e-7a8420edbae7,150,18,,03/05/2021 05:11:49
+0,05-05-2021,693971,Sarvodaya Bal Vidyalaya 3,Delhi,North Delhi,Not Applicable,110039,28,77,Free,c9778403-2345-4c7e-94a4-e9e9f3a5e095,150,18,,03/05/2021 05:11:49
+0,04-05-2021,693882,GBSS School Jahangirpuri 1,Delhi,North Delhi,Not Applicable,110033,28,77,Free,b5faf207-b2f3-44f5-ac49-26c114e16176,1,18,,03/05/2021 05:11:49
+0,03-05-2021,693919,Govt.Girls SeniorSec. School4,Delhi,North Delhi,Not Applicable,110042,28,77,Free,4c48a0a0-23e4-45de-88b8-00d9f08fe29c,148,18,,03/05/2021 05:11:49
+0,04-05-2021,693919,Govt.Girls SeniorSec. School4,Delhi,North Delhi,Not Applicable,110042,28,77,Free,4cb51758-64a2-4924-92d0-a9d3745d238c,150,18,,03/05/2021 05:11:49
+0,05-05-2021,693919,Govt.Girls SeniorSec. School4,Delhi,North Delhi,Not Applicable,110042,28,77,Free,cd6632f0-2598-4450-b3b1-39cc64617a2e,148,18,,03/05/2021 05:11:49
+0,03-05-2021,693969,Sarvodaya Bal Vidyalaya 2,Delhi,North Delhi,Not Applicable,110039,28,77,Free,a001b90a-9209-4e7a-876c-103d9d260dbc,150,18,,03/05/2021 05:11:49
+0,04-05-2021,693969,Sarvodaya Bal Vidyalaya 2,Delhi,North Delhi,Not Applicable,110039,28,77,Free,3486348c-aabe-4fa5-9077-4c47ef0fb563,150,18,,03/05/2021 05:11:49
+0,05-05-2021,693969,Sarvodaya Bal Vidyalaya 2,Delhi,North Delhi,Not Applicable,110039,28,77,Free,87f8d70b-f6e3-4ae5-92b4-2e8e00a7e409,147,18,,03/05/2021 05:11:49
+0,03-05-2021,693929,Gov.Girls S.Sec.Sch.No.1 Site1,Delhi,North Delhi,Not Applicable,110039,28,77,Free,52d7ee26-fa66-4796-9ae7-55e56ffb7ec8,3,18,,03/05/2021 05:11:49
+0,04-05-2021,693929,Gov.Girls S.Sec.Sch.No.1 Site1,Delhi,North Delhi,Not Applicable,110039,28,77,Free,6be1ed37-f547-4545-8d99-aca08e9b3eab,9,18,,03/05/2021 05:11:49
+0,05-05-2021,693929,Gov.Girls S.Sec.Sch.No.1 Site1,Delhi,North Delhi,Not Applicable,110039,28,77,Free,36c5a805-a9bd-460b-ab8c-a1d0033cd947,98,18,,03/05/2021 05:11:49
+0,04-05-2021,693908,SCSDS Vidyalaya 5,Delhi,North Delhi,Not Applicable,110085,28,77,Free,47d3538f-a626-4f01-922a-00e1d08b3742,4,18,,03/05/2021 05:11:49
+0,05-05-2021,693908,SCSDS Vidyalaya 5,Delhi,North Delhi,Not Applicable,110085,28,77,Free,0dd1d58c-9316-434c-8428-089dfd786440,6,18,,03/05/2021 05:11:49
+0,03-05-2021,693888,GBSS School Jahangirpuri 3,Delhi,North Delhi,Not Applicable,110033,28,77,Free,f293205e-87a7-4ebb-bed0-ecfa58767695,148,18,,03/05/2021 05:11:49
+0,04-05-2021,693888,GBSS School Jahangirpuri 3,Delhi,North Delhi,Not Applicable,110033,28,77,Free,aa36e4bf-0def-4d1a-811e-a4905b65f3cc,149,18,,03/05/2021 05:11:49
+0,05-05-2021,693888,GBSS School Jahangirpuri 3,Delhi,North Delhi,Not Applicable,110033,28,77,Free,4e8e54ee-a578-4209-a863-22cc64024498,146,18,,03/05/2021 05:11:49
+0,04-05-2021,693904,SCSDS Vidyalaya 3,Delhi,North Delhi,Not Applicable,110085,28,77,Free,94c9363c-627b-4e76-a264-dbe8e1e1ccd6,1,18,,03/05/2021 05:11:49
+0,03-05-2021,693838,SKV A Block Jahangirpuri 3,Delhi,North Delhi,Not Applicable,110033,28,77,Free,d72e91e7-74f6-414f-9c32-89b83976f28a,137,18,,03/05/2021 05:11:49
+0,04-05-2021,693838,SKV A Block Jahangirpuri 3,Delhi,North Delhi,Not Applicable,110033,28,77,Free,a82e46c5-c76b-4e15-a79f-b3a2324a026d,144,18,,03/05/2021 05:11:49
+0,05-05-2021,693838,SKV A Block Jahangirpuri 3,Delhi,North Delhi,Not Applicable,110033,28,77,Free,6d3496e9-230a-485e-919c-0c09a178320e,148,18,,03/05/2021 05:11:49
+0,03-05-2021,694215,Gov Boys Sec School Site-2,Delhi,North East Delhi,Not Applicable,110094,28,77,Free,2c80d897-7be4-4bb4-875e-5ea7954d668f,144,18,,03/05/2021 05:11:49
+0,04-05-2021,694215,Gov Boys Sec School Site-2,Delhi,North East Delhi,Not Applicable,110094,28,77,Free,f5044a81-39a6-4054-867e-b654bf0bfd1b,148,18,,03/05/2021 05:11:49
+0,05-05-2021,694215,Gov Boys Sec School Site-2,Delhi,North East Delhi,Not Applicable,110094,28,77,Free,ec5e1596-5ab3-4768-840f-072595c9cc3d,149,18,,03/05/2021 05:11:49
+0,03-05-2021,694217,Gov Boys Sec School Site-4,Delhi,North East Delhi,Not Applicable,110094,28,77,Free,5b97d41e-19c5-4745-911b-4ef0cf08a9e4,150,18,,03/05/2021 05:11:49
+0,04-05-2021,694217,Gov Boys Sec School Site-4,Delhi,North East Delhi,Not Applicable,110094,28,77,Free,c9f7ce5a-853e-421b-bb82-04b1db787843,150,18,,03/05/2021 05:11:49
+0,05-05-2021,694217,Gov Boys Sec School Site-4,Delhi,North East Delhi,Not Applicable,110094,28,77,Free,a0a35e54-6c86-4278-995c-cf80f48f9f22,150,18,,03/05/2021 05:11:49
+0,03-05-2021,694230,Gov Girls S Sec School Site-2,Delhi,North East Delhi,Not Applicable,110094,28,77,Free,ec24368d-a280-4796-ac7c-a5f53814e275,150,18,,03/05/2021 05:11:49
+0,04-05-2021,694230,Gov Girls S Sec School Site-2,Delhi,North East Delhi,Not Applicable,110094,28,77,Free,13df61db-4bd8-4f11-81cb-06e857c680ac,150,18,,03/05/2021 05:11:49
+0,05-05-2021,694230,Gov Girls S Sec School Site-2,Delhi,North East Delhi,Not Applicable,110094,28,77,Free,0f11dbd7-f183-41b7-88ab-d9094fb820e5,150,18,,03/05/2021 05:11:49
+0,03-05-2021,694205,Gov Girls Sr Sec School Site-2,Delhi,North East Delhi,Not Applicable,110094,28,77,Free,c86a0009-acb9-4d31-957e-f5592975a5e4,148,18,,03/05/2021 05:11:49
+0,04-05-2021,694205,Gov Girls Sr Sec School Site-2,Delhi,North East Delhi,Not Applicable,110094,28,77,Free,aec127ab-84ce-4ee7-9089-e8295261cc3f,150,18,,03/05/2021 05:11:49
+0,05-05-2021,694205,Gov Girls Sr Sec School Site-2,Delhi,North East Delhi,Not Applicable,110094,28,77,Free,67a5fe6d-ee6e-46a6-9b82-2f4f271bf129,149,18,,03/05/2021 05:11:49
+0,03-05-2021,694213,Gov Boys Sr Se Sc No. 1 Site-5,Delhi,North East Delhi,Not Applicable,110053,28,77,Free,818e9e0f-08e0-46b7-af85-f3fd455dca6e,149,18,,03/05/2021 05:11:49
+0,04-05-2021,694213,Gov Boys Sr Se Sc No. 1 Site-5,Delhi,North East Delhi,Not Applicable,110053,28,77,Free,a9619fb9-ac94-4e34-bb0e-7f63b0913f05,150,18,,03/05/2021 05:11:49
+0,05-05-2021,694213,Gov Boys Sr Se Sc No. 1 Site-5,Delhi,North East Delhi,Not Applicable,110053,28,77,Free,8ca2a536-645b-4c54-b713-5ff26679d37a,150,18,,03/05/2021 05:11:49
+0,03-05-2021,694233,Gov Girls S Sec School Site-5,Delhi,North East Delhi,Not Applicable,110094,28,77,Free,2f06bb4a-f12a-4df6-b047-8314a8cdc8ed,150,18,,03/05/2021 05:11:49
+0,04-05-2021,694233,Gov Girls S Sec School Site-5,Delhi,North East Delhi,Not Applicable,110094,28,77,Free,d1dff3f1-1635-4a8d-8ac4-fa50563f045b,150,18,,03/05/2021 05:11:49
+0,05-05-2021,694233,Gov Girls S Sec School Site-5,Delhi,North East Delhi,Not Applicable,110094,28,77,Free,1311acbd-3641-4346-9cd4-13fce5a84ed9,150,18,,03/05/2021 05:11:49
+0,03-05-2021,694231,Gov Girls S Sec School Site-3,Delhi,North East Delhi,Not Applicable,110094,28,77,Free,ac89bc84-2f60-489a-bae8-fe9371408b8b,150,18,,03/05/2021 05:11:49
+0,04-05-2021,694231,Gov Girls S Sec School Site-3,Delhi,North East Delhi,Not Applicable,110094,28,77,Free,c944b67a-96e8-494e-926e-7d412a5566b5,150,18,,03/05/2021 05:11:49
+0,05-05-2021,694231,Gov Girls S Sec School Site-3,Delhi,North East Delhi,Not Applicable,110094,28,77,Free,60c597aa-c6aa-4bf5-9546-0ab4873171dd,150,18,,03/05/2021 05:11:49
+0,03-05-2021,694224,Gov Girls Sr Se Sc No.1 Site-1,Delhi,North East Delhi,Not Applicable,110053,28,77,Free,1993df81-c620-46d0-af0f-ebac1c2d1c5f,137,18,,03/05/2021 05:11:49
+0,04-05-2021,694224,Gov Girls Sr Se Sc No.1 Site-1,Delhi,North East Delhi,Not Applicable,110053,28,77,Free,8adeb0b7-58a7-4384-baa1-22c1b7726eb0,133,18,,03/05/2021 05:11:49
+0,05-05-2021,694224,Gov Girls Sr Se Sc No.1 Site-1,Delhi,North East Delhi,Not Applicable,110053,28,77,Free,f6b1fdd3-dad7-4915-814b-5ec94ba36fbc,141,18,,03/05/2021 05:11:49
+0,03-05-2021,694223,Gov Boys Sr Sec School Site-5,Delhi,North East Delhi,Not Applicable,110094,28,77,Free,4e38974a-463e-47f7-a216-807e9d28fedd,150,18,,03/05/2021 05:11:49
+0,04-05-2021,694223,Gov Boys Sr Sec School Site-5,Delhi,North East Delhi,Not Applicable,110094,28,77,Free,9cec32a8-c804-4412-94f3-24c499402c7e,150,18,,03/05/2021 05:11:49
+0,05-05-2021,694223,Gov Boys Sr Sec School Site-5,Delhi,North East Delhi,Not Applicable,110094,28,77,Free,f8f173ce-05a4-40af-ab3f-d49588cbb02b,149,18,,03/05/2021 05:11:49
+0,03-05-2021,694208,Gov Girls Sr Sec School Site-5,Delhi,North East Delhi,Not Applicable,110094,28,77,Free,0c409a28-1af2-4bf4-b823-b46ca7bb67a5,150,18,,03/05/2021 05:11:49
+0,04-05-2021,694208,Gov Girls Sr Sec School Site-5,Delhi,North East Delhi,Not Applicable,110094,28,77,Free,a6ebc720-da0e-4e62-b6b4-9ea0997d17cc,148,18,,03/05/2021 05:11:49
+0,05-05-2021,694208,Gov Girls Sr Sec School Site-5,Delhi,North East Delhi,Not Applicable,110094,28,77,Free,bf64b215-567d-4ae7-be76-89a791f9ce1a,150,18,,03/05/2021 05:11:49
+0,03-05-2021,694204,Gov Girls Sr Sec School Site-1,Delhi,North East Delhi,Not Applicable,110094,28,77,Free,312abdd7-e356-4f9e-a1d0-08afe0456ba3,144,18,,03/05/2021 05:11:49
+0,04-05-2021,694204,Gov Girls Sr Sec School Site-1,Delhi,North East Delhi,Not Applicable,110094,28,77,Free,90f17194-c436-4c1a-98f9-ab0a6a1bb9ee,149,18,,03/05/2021 05:11:49
+0,05-05-2021,694204,Gov Girls Sr Sec School Site-1,Delhi,North East Delhi,Not Applicable,110094,28,77,Free,1bae51c6-fe01-45da-8eea-895a2395d88d,141,18,,03/05/2021 05:11:49
+0,03-05-2021,694221,Gov Boys Sr Sec School Site-3,Delhi,North East Delhi,Not Applicable,110094,28,77,Free,71edcf27-2505-4868-8480-7b6dac34c285,150,18,,03/05/2021 05:11:49
+0,04-05-2021,694221,Gov Boys Sr Sec School Site-3,Delhi,North East Delhi,Not Applicable,110094,28,77,Free,6ffebf88-162a-498e-aca7-9829b1638d55,150,18,,03/05/2021 05:11:49
+0,05-05-2021,694221,Gov Boys Sr Sec School Site-3,Delhi,North East Delhi,Not Applicable,110094,28,77,Free,4e23ad3e-a1bb-4f56-abda-1b4d15a3c7b1,149,18,,03/05/2021 05:11:49
+0,03-05-2021,694218,Gov Boys Sec School Site-5,Delhi,North East Delhi,Not Applicable,110094,28,77,Free,c1a10d6c-ea14-493e-b3f6-f1807964bf3c,150,18,,03/05/2021 05:11:49
+0,04-05-2021,694218,Gov Boys Sec School Site-5,Delhi,North East Delhi,Not Applicable,110094,28,77,Free,d22bed63-5f87-44d3-a895-ddda485e044c,149,18,,03/05/2021 05:11:49
+0,05-05-2021,694218,Gov Boys Sec School Site-5,Delhi,North East Delhi,Not Applicable,110094,28,77,Free,940c4fa8-2ae9-4f4b-aa71-a0a1308ad135,150,18,,03/05/2021 05:11:49
+0,03-05-2021,694219,Gov Boys Sr Sec School Site-1,Delhi,North East Delhi,Not Applicable,110094,28,77,Free,28f0fb2d-7a39-46fd-a0fe-e4aed7d0a572,141,18,,03/05/2021 05:11:49
+0,04-05-2021,694219,Gov Boys Sr Sec School Site-1,Delhi,North East Delhi,Not Applicable,110094,28,77,Free,8913e8ff-eff6-498e-acdc-ee59b3d7a5fc,143,18,,03/05/2021 05:11:49
+0,05-05-2021,694219,Gov Boys Sr Sec School Site-1,Delhi,North East Delhi,Not Applicable,110094,28,77,Free,9390ba03-6392-47fb-a6f8-4002b9b6d3fe,150,18,,03/05/2021 05:11:49
+0,03-05-2021,694212,Gov Boys Sr Se Sc No. 1 Site-4,Delhi,North East Delhi,Not Applicable,110053,28,77,Free,ceabdb78-91b8-4c31-a3d1-22944e60cfb2,148,18,,03/05/2021 05:11:49
+0,04-05-2021,694212,Gov Boys Sr Se Sc No. 1 Site-4,Delhi,North East Delhi,Not Applicable,110053,28,77,Free,83da0171-a777-41c3-9ab8-f4464c5f90d7,148,18,,03/05/2021 05:11:49
+0,05-05-2021,694212,Gov Boys Sr Se Sc No. 1 Site-4,Delhi,North East Delhi,Not Applicable,110053,28,77,Free,dab1c1ef-7979-49e4-8d9e-c4f1952a59a8,150,18,,03/05/2021 05:11:49
+0,03-05-2021,694226,Gov Girls Sr Se Sc No.1 Site-3,Delhi,North East Delhi,Not Applicable,110053,28,77,Free,66e0e4e9-a32d-4398-be7a-5ac6a106d241,150,18,,03/05/2021 05:11:49
+0,04-05-2021,694226,Gov Girls Sr Se Sc No.1 Site-3,Delhi,North East Delhi,Not Applicable,110053,28,77,Free,53b28e23-6a2a-47af-84a1-70b0ad0642b3,149,18,,03/05/2021 05:11:49
+0,05-05-2021,694226,Gov Girls Sr Se Sc No.1 Site-3,Delhi,North East Delhi,Not Applicable,110053,28,77,Free,b7b73fa2-010d-4156-b802-bad499c9e860,150,18,,03/05/2021 05:11:49
+0,03-05-2021,694207,Gov Girls Sr Sec School Site-4,Delhi,North East Delhi,Not Applicable,110094,28,77,Free,37624563-2d3f-40ba-bbf1-32a150df8d14,150,18,,03/05/2021 05:11:49
+0,04-05-2021,694207,Gov Girls Sr Sec School Site-4,Delhi,North East Delhi,Not Applicable,110094,28,77,Free,c371230f-deda-4ffe-a163-19a6a63c7f02,149,18,,03/05/2021 05:11:49
+0,05-05-2021,694207,Gov Girls Sr Sec School Site-4,Delhi,North East Delhi,Not Applicable,110094,28,77,Free,afb14866-555a-4d0a-8d15-8324b36dd407,150,18,,03/05/2021 05:11:49
+0,03-05-2021,694232,Gov Girls S Sec School Site-4,Delhi,North East Delhi,Not Applicable,110094,28,77,Free,c1d04eb4-9018-40fd-808d-49779c9cff98,150,18,,03/05/2021 05:11:49
+0,04-05-2021,694232,Gov Girls S Sec School Site-4,Delhi,North East Delhi,Not Applicable,110094,28,77,Free,75baf531-5d13-49c6-af24-12f04aac7ffe,150,18,,03/05/2021 05:11:49
+0,05-05-2021,694232,Gov Girls S Sec School Site-4,Delhi,North East Delhi,Not Applicable,110094,28,77,Free,6de44dc0-5ce9-4b2d-b830-1ea40f95bab5,150,18,,03/05/2021 05:11:49
+0,03-05-2021,694225,Gov Girls Sr Se Sc No.1 Site-2,Delhi,North East Delhi,Not Applicable,110053,28,77,Free,b81863ea-353f-40aa-bdb2-5208fd2109eb,150,18,,03/05/2021 05:11:49
+0,04-05-2021,694225,Gov Girls Sr Se Sc No.1 Site-2,Delhi,North East Delhi,Not Applicable,110053,28,77,Free,58cc10c8-3c7a-43f9-89a0-f87f038fa58b,148,18,,03/05/2021 05:11:49
+0,05-05-2021,694225,Gov Girls Sr Se Sc No.1 Site-2,Delhi,North East Delhi,Not Applicable,110053,28,77,Free,20a0a913-0507-4aec-a5e3-2c19b6161941,150,18,,03/05/2021 05:11:49
+0,03-05-2021,694229,Gov Girls S Sec School Site-1,Delhi,North East Delhi,Not Applicable,110094,28,77,Free,0682adc6-3e09-4d3d-83d9-52ef9b7ce4a0,148,18,,03/05/2021 05:11:49
+0,04-05-2021,694229,Gov Girls S Sec School Site-1,Delhi,North East Delhi,Not Applicable,110094,28,77,Free,d6b57a88-2254-4a70-8537-cdc68c6e190f,150,18,,03/05/2021 05:11:49
+0,05-05-2021,694229,Gov Girls S Sec School Site-1,Delhi,North East Delhi,Not Applicable,110094,28,77,Free,9b3f2c8b-f3eb-4a05-b252-677e643f38f2,149,18,,03/05/2021 05:11:49
+0,03-05-2021,694206,Gov Girls Sr Sec School Site-3,Delhi,North East Delhi,Not Applicable,110094,28,77,Free,c743b9c7-5795-4fb8-8d08-3fc475cad14a,148,18,,03/05/2021 05:11:49
+0,04-05-2021,694206,Gov Girls Sr Sec School Site-3,Delhi,North East Delhi,Not Applicable,110094,28,77,Free,cf4f2f47-270f-4dcb-86d8-18e493b70f85,139,18,,03/05/2021 05:11:49
+0,05-05-2021,694206,Gov Girls Sr Sec School Site-3,Delhi,North East Delhi,Not Applicable,110094,28,77,Free,e268c806-0643-48a9-84d3-ee7c0ed0a8de,150,18,,03/05/2021 05:11:49
+0,03-05-2021,694209,Gov Boys Sr Se Sc No. 1 Site-1,Delhi,North East Delhi,Not Applicable,110053,28,77,Free,4552a5f9-d3b3-4f0a-8be0-b10bb0357426,124,18,,03/05/2021 05:11:49
+0,04-05-2021,694209,Gov Boys Sr Se Sc No. 1 Site-1,Delhi,North East Delhi,Not Applicable,110053,28,77,Free,f9fdf0dd-38c6-4466-8fde-42cf42063dae,138,18,,03/05/2021 05:11:49
+0,05-05-2021,694209,Gov Boys Sr Se Sc No. 1 Site-1,Delhi,North East Delhi,Not Applicable,110053,28,77,Free,188d2b63-8446-4b9e-a409-a6561961c179,147,18,,03/05/2021 05:11:49
+0,03-05-2021,694211,Gov Boys Sr Se Sc No. 1 Site-3,Delhi,North East Delhi,Not Applicable,110053,28,77,Free,99285cb6-fbda-45d4-80af-6be7a49b2b1b,150,18,,03/05/2021 05:11:49
+0,04-05-2021,694211,Gov Boys Sr Se Sc No. 1 Site-3,Delhi,North East Delhi,Not Applicable,110053,28,77,Free,842bac22-f7eb-455b-b4be-387470491190,144,18,,03/05/2021 05:11:49
+0,05-05-2021,694211,Gov Boys Sr Se Sc No. 1 Site-3,Delhi,North East Delhi,Not Applicable,110053,28,77,Free,ba3c48f9-0273-488a-82da-3a0652898a50,150,18,,03/05/2021 05:11:49
+0,03-05-2021,694227,Gov Girls Sr Se Sc No.1 Site-4,Delhi,North East Delhi,Not Applicable,110053,28,77,Free,7db2d902-444d-4300-8b77-ca56eada6273,150,18,,03/05/2021 05:11:49
+0,04-05-2021,694227,Gov Girls Sr Se Sc No.1 Site-4,Delhi,North East Delhi,Not Applicable,110053,28,77,Free,20c58983-611b-4b8f-bb47-58bd2a4d454c,150,18,,03/05/2021 05:11:49
+0,05-05-2021,694227,Gov Girls Sr Se Sc No.1 Site-4,Delhi,North East Delhi,Not Applicable,110053,28,77,Free,4a587a3c-5acc-403f-8f70-f2f4f2e69df0,150,18,,03/05/2021 05:11:49
+0,03-05-2021,694216,Gov Boys Sec School Site-3,Delhi,North East Delhi,Not Applicable,110094,28,77,Free,0803c6f3-6ea9-44b8-8a61-add639d0fbaa,150,18,,03/05/2021 05:11:49
+0,04-05-2021,694216,Gov Boys Sec School Site-3,Delhi,North East Delhi,Not Applicable,110094,28,77,Free,adff2333-671e-4c29-b910-7c2474432716,150,18,,03/05/2021 05:11:49
+0,05-05-2021,694216,Gov Boys Sec School Site-3,Delhi,North East Delhi,Not Applicable,110094,28,77,Free,ceb4270d-d2ce-427e-96c8-36ff4e92e907,150,18,,03/05/2021 05:11:49
+0,03-05-2021,694222,Gov Boys Sr Sec School Site-4,Delhi,North East Delhi,Not Applicable,110094,28,77,Free,87202111-c229-48cd-937e-a0332e0bbdb3,150,18,,03/05/2021 05:11:49
+0,04-05-2021,694222,Gov Boys Sr Sec School Site-4,Delhi,North East Delhi,Not Applicable,110094,28,77,Free,6f18b6f2-17c4-45d8-8640-3316491cf836,150,18,,03/05/2021 05:11:49
+0,05-05-2021,694222,Gov Boys Sr Sec School Site-4,Delhi,North East Delhi,Not Applicable,110094,28,77,Free,96c4650d-d62d-47be-b3f7-3e574c434b4a,150,18,,03/05/2021 05:11:49
+0,03-05-2021,694228,Gov Girls Sr Se Sc No.1 Site-5,Delhi,North East Delhi,Not Applicable,110053,28,77,Free,0b23e8f5-f3f6-4963-9a0d-011060f23e5e,150,18,,03/05/2021 05:11:49
+0,04-05-2021,694228,Gov Girls Sr Se Sc No.1 Site-5,Delhi,North East Delhi,Not Applicable,110053,28,77,Free,a39e4bec-adff-4f12-9126-469962a344ee,148,18,,03/05/2021 05:11:49
+0,05-05-2021,694228,Gov Girls Sr Se Sc No.1 Site-5,Delhi,North East Delhi,Not Applicable,110053,28,77,Free,854671ed-b6f4-4e63-8079-d54b0bf7e977,150,18,,03/05/2021 05:11:49
+0,03-05-2021,694214,Gov Boys Sec School Site-1,Delhi,North East Delhi,Not Applicable,110094,28,77,Free,e1fa9f5e-4c59-4a0a-873e-064c885bdee6,137,18,,03/05/2021 05:11:49
+0,04-05-2021,694214,Gov Boys Sec School Site-1,Delhi,North East Delhi,Not Applicable,110094,28,77,Free,56646e77-e9c1-4d84-8618-7b0280086274,144,18,,03/05/2021 05:11:49
+0,05-05-2021,694214,Gov Boys Sec School Site-1,Delhi,North East Delhi,Not Applicable,110094,28,77,Free,bdaa7a04-4ee7-4420-b8b3-13e164b571da,145,18,,03/05/2021 05:11:49
+0,03-05-2021,694210,Gov Boys Sr Se Sc No. 1 Site-2,Delhi,North East Delhi,Not Applicable,110053,28,77,Free,d8580127-7bca-4098-8dd5-968de85ff3f3,149,18,,03/05/2021 05:11:49
+0,04-05-2021,694210,Gov Boys Sr Se Sc No. 1 Site-2,Delhi,North East Delhi,Not Applicable,110053,28,77,Free,5c474b12-738e-40f0-b604-3cea995e87bd,149,18,,03/05/2021 05:11:49
+0,05-05-2021,694210,Gov Boys Sr Se Sc No. 1 Site-2,Delhi,North East Delhi,Not Applicable,110053,28,77,Free,58d48fe4-1845-49b5-8ea5-dc2d8d55aa86,150,18,,03/05/2021 05:11:49
+0,03-05-2021,694220,Gov Boys Sr Sec School Site-2,Delhi,North East Delhi,Not Applicable,110094,28,77,Free,c8535297-686d-469d-8522-50ae01176163,150,18,,03/05/2021 05:11:49
+0,04-05-2021,694220,Gov Boys Sr Sec School Site-2,Delhi,North East Delhi,Not Applicable,110094,28,77,Free,6cbfa333-82f7-4541-9c80-f568647b2e08,149,18,,03/05/2021 05:11:49
+0,05-05-2021,694220,Gov Boys Sr Sec School Site-2,Delhi,North East Delhi,Not Applicable,110094,28,77,Free,f3caf7e1-bd04-4640-ac6e-b88681643971,150,18,,03/05/2021 05:11:49
+0,03-05-2021,694065,Govt. Sarvoday Vidyalay Site 4,Delhi,North West Delhi,Not Applicable,110034,28,77,Free,95664878-7cfc-4f60-b218-8ae51fd37e64,95,18,,03/05/2021 05:11:49
+0,04-05-2021,694065,Govt. Sarvoday Vidyalay Site 4,Delhi,North West Delhi,Not Applicable,110034,28,77,Free,500d8ca3-f9e8-40c1-b4be-8c1cd9c52ab6,112,18,,03/05/2021 05:11:49
+0,05-05-2021,694065,Govt. Sarvoday Vidyalay Site 4,Delhi,North West Delhi,Not Applicable,110034,28,77,Free,f05036b0-da4b-4062-89e8-543306f1c84c,126,18,,03/05/2021 05:11:49
+0,03-05-2021,694004,SKV KARALA SCHOOL Site 4,Delhi,North West Delhi,Not Applicable,110081,28,77,Free,6102213d-76e5-4690-80b8-9035006874df,114,18,,03/05/2021 05:11:49
+0,04-05-2021,694004,SKV KARALA SCHOOL Site 4,Delhi,North West Delhi,Not Applicable,110081,28,77,Free,be3d835a-9dd9-438d-a7e6-380c35747636,135,18,,03/05/2021 05:11:49
+0,05-05-2021,694004,SKV KARALA SCHOOL Site 4,Delhi,North West Delhi,Not Applicable,110081,28,77,Free,26a2fa30-5a4f-4a6d-a658-10a37e117661,140,18,,03/05/2021 05:11:49
+0,04-05-2021,694051,Sarvoday Vidhyalay Sec3 Site 5,Delhi,North West Delhi,Not Applicable,110085,28,77,Free,843d1cf2-c6b7-42f2-9afc-648ba076dca4,41,18,,03/05/2021 05:11:49
+0,05-05-2021,694051,Sarvoday Vidhyalay Sec3 Site 5,Delhi,North West Delhi,Not Applicable,110085,28,77,Free,cdebecfb-e474-44eb-85a5-306ca98558d7,70,18,,03/05/2021 05:11:49
+0,05-05-2021,693990,SARVODAY VIDYALAY POOTHKALAN 3,Delhi,North West Delhi,Not Applicable,110086,28,77,Free,0670e9f3-7ece-44ae-a93e-0e8e9bb8d240,2,18,,03/05/2021 05:11:49
+0,03-05-2021,694002,SKV KARALA SCHOOL Site 3,Delhi,North West Delhi,Not Applicable,110081,28,77,Free,111e0c13-563e-422f-b437-dbd3929d0a17,122,18,,03/05/2021 05:11:49
+0,04-05-2021,694002,SKV KARALA SCHOOL Site 3,Delhi,North West Delhi,Not Applicable,110081,28,77,Free,112fa6f8-1a32-4ca1-bf98-6d7d16bf184f,128,18,,03/05/2021 05:11:49
+0,05-05-2021,694002,SKV KARALA SCHOOL Site 3,Delhi,North West Delhi,Not Applicable,110081,28,77,Free,7545a401-f31b-40c2-9720-386ab57a8022,142,18,,03/05/2021 05:11:49
+0,03-05-2021,694061,Govt. Sarvoday Vidyalay Site 2,Delhi,North West Delhi,Not Applicable,110034,28,77,Free,128b3581-b4e3-4021-99b4-4e6de2acd2f6,1,18,,03/05/2021 05:11:49
+0,04-05-2021,694061,Govt. Sarvoday Vidyalay Site 2,Delhi,North West Delhi,Not Applicable,110034,28,77,Free,68ac0e1a-292c-4216-919c-94280a756973,67,18,,03/05/2021 05:11:49
+0,05-05-2021,694061,Govt. Sarvoday Vidyalay Site 2,Delhi,North West Delhi,Not Applicable,110034,28,77,Free,4ac0f713-3c8d-49d3-bc77-c410b33ac90f,126,18,,03/05/2021 05:11:49
+0,04-05-2021,693998,SKV KARALA SCHOOL Site 1,Delhi,North West Delhi,Not Applicable,110081,28,77,Free,ed89698f-d460-46da-909b-add81753fb4e,74,18,,03/05/2021 05:11:49
+0,05-05-2021,693998,SKV KARALA SCHOOL Site 1,Delhi,North West Delhi,Not Applicable,110081,28,77,Free,207472a9-c3c7-4312-a4ec-2ad5d3d7facb,97,18,,03/05/2021 05:11:49
+0,05-05-2021,694056,Govt. Sarvoday Vidyalay Site 1,Delhi,North West Delhi,Not Applicable,110034,28,77,Free,0e790fe4-f8c5-491a-85aa-88c3dfd833bb,23,18,,03/05/2021 05:11:49
+0,03-05-2021,694075,GOVT. SARVODAYA B.V. Site 5,Delhi,North West Delhi,Not Applicable,110086,28,77,Free,3123797c-a326-40dc-a59c-0b80c6908244,145,18,,03/05/2021 05:11:49
+0,04-05-2021,694075,GOVT. SARVODAYA B.V. Site 5,Delhi,North West Delhi,Not Applicable,110086,28,77,Free,2cc12071-3c15-46d1-8ae7-2bd03baed2fd,147,18,,03/05/2021 05:11:49
+0,05-05-2021,694075,GOVT. SARVODAYA B.V. Site 5,Delhi,North West Delhi,Not Applicable,110086,28,77,Free,4ace06a3-486e-4827-be35-5ce552b973c0,141,18,,03/05/2021 05:11:49
+0,03-05-2021,580986,Cygnus MLS Hospital,Delhi,North West Delhi,Not Applicable,110081,28,77,Paid,ce4b0191-87dd-498d-bacc-bed92e68cb60,1,18,COVISHIELD,03/05/2021 05:11:49
+0,03-05-2021,694063,Govt. Sarvoday Vidyalay Site 3,Delhi,North West Delhi,Not Applicable,110034,28,77,Free,be5b28c1-4943-471a-8d04-07328090e72c,45,18,,03/05/2021 05:11:49
+0,04-05-2021,694063,Govt. Sarvoday Vidyalay Site 3,Delhi,North West Delhi,Not Applicable,110034,28,77,Free,f382ce6e-4640-40e6-a248-7135e6210943,100,18,,03/05/2021 05:11:49
+0,05-05-2021,694063,Govt. Sarvoday Vidyalay Site 3,Delhi,North West Delhi,Not Applicable,110034,28,77,Free,3704d288-c467-4a3f-9eb3-5ed57af7a14f,115,18,,03/05/2021 05:11:49
+0,03-05-2021,693999,SKV KARALA SCHOOL Site 2,Delhi,North West Delhi,Not Applicable,110081,28,77,Free,61c8685f-c7b6-4152-a3de-394cc66d702a,57,18,,03/05/2021 05:11:49
+0,04-05-2021,693999,SKV KARALA SCHOOL Site 2,Delhi,North West Delhi,Not Applicable,110081,28,77,Free,9221866e-6f73-48d7-9e4c-4395631b770c,133,18,,03/05/2021 05:11:49
+0,05-05-2021,693999,SKV KARALA SCHOOL Site 2,Delhi,North West Delhi,Not Applicable,110081,28,77,Free,f4f09c1a-25aa-40c0-847f-dce9553cc7dd,127,18,,03/05/2021 05:11:49
+0,05-05-2021,694022,GGSSS B Block Anandvas Site 3,Delhi,North West Delhi,Not Applicable,110034,28,77,Free,17b6c3f2-18dd-4010-85cf-ae560afe013b,106,18,,03/05/2021 05:11:49
+0,03-05-2021,694074,GOVT. SARVODAYA B.V. Site 4,Delhi,North West Delhi,Not Applicable,110086,28,77,Free,67aef67e-737c-4eea-b8fa-7b089f3beaa0,145,18,,03/05/2021 05:11:49
+0,04-05-2021,694074,GOVT. SARVODAYA B.V. Site 4,Delhi,North West Delhi,Not Applicable,110086,28,77,Free,b2abeaec-d22b-447c-a03a-4af28b551f5d,143,18,,03/05/2021 05:11:49
+0,05-05-2021,694074,GOVT. SARVODAYA B.V. Site 4,Delhi,North West Delhi,Not Applicable,110086,28,77,Free,4cbf33ee-da30-405d-9d72-636d39b80949,145,18,,03/05/2021 05:11:49
+0,05-05-2021,693993,SARVODAY VIDYALAY POOTHKALAN 5,Delhi,North West Delhi,Not Applicable,110086,28,77,Free,e3399d06-9bee-496f-afe6-3fc51fb50c75,1,18,,03/05/2021 05:11:49
+0,03-05-2021,694066,Govt. Sarvoday Vidyalay Site 5,Delhi,North West Delhi,Not Applicable,110034,28,77,Free,3a7fa189-579e-4758-a2e9-aa14f0de3b73,103,18,,03/05/2021 05:11:49
+0,04-05-2021,694066,Govt. Sarvoday Vidyalay Site 5,Delhi,North West Delhi,Not Applicable,110034,28,77,Free,107f1a4b-d70d-4ce6-896f-f522eb5ca834,124,18,,03/05/2021 05:11:49
+0,05-05-2021,694066,Govt. Sarvoday Vidyalay Site 5,Delhi,North West Delhi,Not Applicable,110034,28,77,Free,4c9461aa-beca-4431-91a6-2c24d0b20341,129,18,,03/05/2021 05:11:49
+0,05-05-2021,694045,Sarvoday Vidhyalay Sec3 Site 4,Delhi,North West Delhi,Not Applicable,110085,28,77,Free,4b26fd19-0651-421f-88b1-d8457f8e6cb6,54,18,,03/05/2021 05:11:49
+0,05-05-2021,694019,GGSSS B Block Anandvas Site 2,Delhi,North West Delhi,Not Applicable,110034,28,77,Free,edb612ca-cf87-4ec1-8fef-a6efbfb21e82,68,18,,03/05/2021 05:11:49
+0,04-05-2021,694029,GGSSS B Block Anandvas Site 5,Delhi,North West Delhi,Not Applicable,110034,28,77,Free,be67a469-39e5-45f8-a148-c9863215b525,129,18,,03/05/2021 05:11:49
+0,05-05-2021,694029,GGSSS B Block Anandvas Site 5,Delhi,North West Delhi,Not Applicable,110034,28,77,Free,bb9ef516-f327-4bc2-bad7-6462aacdcfa9,130,18,,03/05/2021 05:11:49
+0,03-05-2021,694076,GOVT. SARVODAYA B.V. Site 1,Delhi,North West Delhi,Not Applicable,110086,28,77,Free,772466f8-5977-4a09-8663-ae709f60dede,47,18,,03/05/2021 05:11:49
+0,04-05-2021,694076,GOVT. SARVODAYA B.V. Site 1,Delhi,North West Delhi,Not Applicable,110086,28,77,Free,62dff531-3bf9-4429-8a21-198524c5c6ad,61,18,,03/05/2021 05:11:49
+0,05-05-2021,694076,GOVT. SARVODAYA B.V. Site 1,Delhi,North West Delhi,Not Applicable,110086,28,77,Free,67111eef-61d0-466c-9b7a-bf6fb1acc745,88,18,,03/05/2021 05:11:49
+0,04-05-2021,694024,GGSSS B Block Anandvas Site 4,Delhi,North West Delhi,Not Applicable,110034,28,77,Free,93359c99-e844-4aff-8998-7c1e72140ebd,80,18,,03/05/2021 05:11:49
+0,05-05-2021,694024,GGSSS B Block Anandvas Site 4,Delhi,North West Delhi,Not Applicable,110034,28,77,Free,360bcf87-263d-46f3-ab04-aafb0617acc5,134,18,,03/05/2021 05:11:49
+0,03-05-2021,694007,SKV KARALA SCHOOL Site 5,Delhi,North West Delhi,Not Applicable,110081,28,77,Free,a3f5f30b-8d7c-4d24-bd44-2bb2af16bf57,107,18,,03/05/2021 05:11:49
+0,04-05-2021,694007,SKV KARALA SCHOOL Site 5,Delhi,North West Delhi,Not Applicable,110081,28,77,Free,d8754e04-33ba-4caa-90ff-132d0b3b3b9e,139,18,,03/05/2021 05:11:49
+0,05-05-2021,694007,SKV KARALA SCHOOL Site 5,Delhi,North West Delhi,Not Applicable,110081,28,77,Free,12c5d77c-1527-415c-b720-5636fc475d96,133,18,,03/05/2021 05:11:49
+0,03-05-2021,694073,GOVT. SARVODAYA B.V. Site 3,Delhi,North West Delhi,Not Applicable,110086,28,77,Free,dce1ac55-6e7f-4c77-90a1-8e5583514b4c,144,18,,03/05/2021 05:11:49
+0,04-05-2021,694073,GOVT. SARVODAYA B.V. Site 3,Delhi,North West Delhi,Not Applicable,110086,28,77,Free,a22c45b7-058f-48b5-bc85-5baf473c2beb,144,18,,03/05/2021 05:11:49
+0,05-05-2021,694073,GOVT. SARVODAYA B.V. Site 3,Delhi,North West Delhi,Not Applicable,110086,28,77,Free,c1ef2cdd-0081-43bb-b860-386edf613b85,134,18,,03/05/2021 05:11:49
+0,03-05-2021,694071,GOVT. SARVODAYA B.V. Site 2,Delhi,North West Delhi,Not Applicable,110086,28,77,Free,2a2a8ad6-affb-4aec-9c3c-287a00dffec5,93,18,,03/05/2021 05:11:49
+0,04-05-2021,694071,GOVT. SARVODAYA B.V. Site 2,Delhi,North West Delhi,Not Applicable,110086,28,77,Free,9600d1e3-a829-4c98-9f91-1f3bbb43b63f,117,18,,03/05/2021 05:11:49
+0,05-05-2021,694071,GOVT. SARVODAYA B.V. Site 2,Delhi,North West Delhi,Not Applicable,110086,28,77,Free,2a823045-e813-487b-84c4-adcc7832f6aa,138,18,,03/05/2021 05:11:49
+0,03-05-2021,694165,GBSSS Janta Flats Site 4,Delhi,Shahdara,Not Applicable,110093,28,77,Free,b0491649-4809-4ae8-acc8-9b9ad9278f9c,138,18,,03/05/2021 05:11:49
+0,03-05-2021,694177,GBSSS Welcome Site 1,Delhi,Shahdara,Not Applicable,110053,28,77,Free,4dc5d546-bade-4425-af45-35da85de96f3,127,18,,03/05/2021 05:11:49
+0,03-05-2021,694175,GBSSS Jafrabad Extn Site 2,Delhi,Shahdara,Not Applicable,110053,28,77,Free,03d6bdd1-097d-44a0-b408-a8c6574f9ebe,127,18,,03/05/2021 05:11:49
+0,03-05-2021,694186,GBSSS Saboli Extn Site 5,Delhi,Shahdara,Not Applicable,110093,28,77,Free,b112436f-c427-47c2-8745-17becd27dc97,143,18,,03/05/2021 05:11:49
+0,03-05-2021,694183,GBSSS Saboli Extn Site 3,Delhi,Shahdara,Not Applicable,110093,28,77,Free,405b05bd-1ecb-4b9e-85cd-76efc513f603,146,18,,03/05/2021 05:11:49
+0,03-05-2021,694176,GBSSS Jafrabad Extn Site 3,Delhi,Shahdara,Not Applicable,110053,28,77,Free,ce4fdfd2-cee2-42c1-b709-786d7f7a4414,144,18,,03/05/2021 05:11:49
+0,03-05-2021,694174,GBSSS Jafrabad Extn Site 1,Delhi,Shahdara,Not Applicable,110053,28,77,Free,c0d72552-fc10-4a1a-b50a-d14197ef9c1e,56,18,,03/05/2021 05:11:49
+0,03-05-2021,694157,SKV Anand Vihar Site 3,Delhi,Shahdara,Not Applicable,110092,28,77,Free,b463412f-f790-4281-a7d7-e58a45a42802,125,18,,03/05/2021 05:11:49
+0,03-05-2021,694181,GBSSS Saboli Extn Site 2,Delhi,Shahdara,Not Applicable,110093,28,77,Free,4ea4729f-de25-45b3-9241-facda14db022,148,18,,03/05/2021 05:11:49
+0,03-05-2021,694180,GBSSS Saboli Extn Site 1,Delhi,Shahdara,Not Applicable,110093,28,77,Free,4901fb54-6783-48e0-b7d9-660ac0bfae99,121,18,,03/05/2021 05:11:49
+0,03-05-2021,694163,GBSSS Janta Flats Site 2,Delhi,Shahdara,Not Applicable,110093,28,77,Free,66b88293-7427-43f3-b2e0-50d081b0c526,129,18,,03/05/2021 05:11:49
+0,03-05-2021,694178,GBSSS Welcome Site 2,Delhi,Shahdara,Not Applicable,110053,28,77,Free,64ec96ce-893e-4c11-a858-bda0e8a436ee,143,18,,03/05/2021 05:11:49
+0,03-05-2021,694160,GBSSS Janta Flats Site 1,Delhi,Shahdara,Not Applicable,110093,28,77,Free,c9fe3298-e97b-4575-9998-7913ac992eff,12,18,,03/05/2021 05:11:49
+0,03-05-2021,694159,SKV Anand Vihar Site 5,Delhi,Shahdara,Not Applicable,110092,28,77,Free,071a2654-35e8-461e-b7d8-b0f71550de27,138,18,,03/05/2021 05:11:49
+0,03-05-2021,694164,GBSSS Janta Flats Site 3,Delhi,Shahdara,Not Applicable,110093,28,77,Free,227a0468-b96e-488d-859b-f3297a4d74fb,144,18,,03/05/2021 05:11:49
+0,03-05-2021,694156,SKV Anand Vihar Site 2,Delhi,Shahdara,Not Applicable,110092,28,77,Free,db4ef9c0-efc8-423a-bd0b-8b48e8c86fc4,43,18,,03/05/2021 05:11:49
+0,03-05-2021,694169,GGSSS Jhilmil Colony Site 3,Delhi,Shahdara,Not Applicable,110095,28,77,Free,b697d342-25f7-4a3e-abf7-ffad082f6d83,100,18,,03/05/2021 05:11:49
+0,03-05-2021,694185,GBSSS Saboli Extn Site 4,Delhi,Shahdara,Not Applicable,110093,28,77,Free,c1bf3133-a0e6-47ba-ad48-d8ef33e63ef1,150,18,,03/05/2021 05:11:49
+0,03-05-2021,694166,GBSSS Janta Flats Site 5,Delhi,Shahdara,Not Applicable,110093,28,77,Free,2ed827a0-2c40-4562-bf13-f4b5d300b99e,142,18,,03/05/2021 05:11:49
+0,03-05-2021,694168,GGSSS Jhilmil Colony Site 2,Delhi,Shahdara,Not Applicable,110095,28,77,Free,86a446cb-1e26-406f-9697-d585fd8bf9ca,63,18,,03/05/2021 05:11:49
+0,03-05-2021,694158,SKV Anand Vihar Site 4,Delhi,Shahdara,Not Applicable,110092,28,77,Free,bdb0315c-d40a-4d62-a879-ea819faee3ae,134,18,,03/05/2021 05:11:49
+0,03-05-2021,693892,SCHOOL OF EXCE. MPK SITE-1,Delhi,South East Delhi,Not Applicable,110076,28,77,Free,7d005e47-b938-4ec8-a904-772fcf138667,102,18,,03/05/2021 05:11:49
+0,04-05-2021,693892,SCHOOL OF EXCE. MPK SITE-1,Delhi,South East Delhi,Not Applicable,110076,28,77,Free,84a26474-c842-44f1-8427-78006f9659eb,116,18,,03/05/2021 05:11:49
+0,05-05-2021,693892,SCHOOL OF EXCE. MPK SITE-1,Delhi,South East Delhi,Not Applicable,110076,28,77,Free,434491d0-71e0-40c5-9ae7-642caa1da0e5,136,18,,03/05/2021 05:11:49
+0,03-05-2021,694018,SBV KAUTILYA (1925003) SITE-5,Delhi,South East Delhi,Not Applicable,110048,28,77,Free,c6e5ccb3-5fe9-4778-aa69-6623cea8a55d,128,18,,03/05/2021 05:11:49
+0,04-05-2021,694018,SBV KAUTILYA (1925003) SITE-5,Delhi,South East Delhi,Not Applicable,110048,28,77,Free,f1896a1a-7b74-4e1f-8183-e06557e08c2b,136,18,,03/05/2021 05:11:49
+0,05-05-2021,694018,SBV KAUTILYA (1925003) SITE-5,Delhi,South East Delhi,Not Applicable,110048,28,77,Free,2179b126-229c-43f0-bf51-a64badd25d0d,136,18,,03/05/2021 05:11:49
+0,03-05-2021,693879,S. Hemu Kalani GSBV SITE-3,Delhi,South East Delhi,Not Applicable,110024,28,77,Free,b81ef61c-2bd0-4fd5-bb9d-8f2ad696c212,58,18,,03/05/2021 05:11:49
+0,04-05-2021,693879,S. Hemu Kalani GSBV SITE-3,Delhi,South East Delhi,Not Applicable,110024,28,77,Free,9fc8e2ba-39a5-42f8-8b32-47d7d2a9577c,87,18,,03/05/2021 05:11:49
+0,05-05-2021,693879,S. Hemu Kalani GSBV SITE-3,Delhi,South East Delhi,Not Applicable,110024,28,77,Free,9ca76ff8-5158-46b4-b245-6eb74337f39a,118,18,,03/05/2021 05:11:49
+0,03-05-2021,693775,GGSSS BADARPUR NO.1 SITE-2,Delhi,South East Delhi,Not Applicable,110044,28,77,Free,70d79ea2-78da-4d87-ac7c-cee2f274b16a,33,18,,03/05/2021 05:11:49
+0,04-05-2021,693775,GGSSS BADARPUR NO.1 SITE-2,Delhi,South East Delhi,Not Applicable,110044,28,77,Free,37c75d61-cc01-4da3-819a-d7f3d35c69bf,85,18,,03/05/2021 05:11:49
+0,05-05-2021,693775,GGSSS BADARPUR NO.1 SITE-2,Delhi,South East Delhi,Not Applicable,110044,28,77,Free,3e91fcbb-973a-49c9-b404-81def6d3cecf,122,18,,03/05/2021 05:11:49
+0,03-05-2021,693973,CO-ED SCHOOL JANGPURA SITE-5,Delhi,South East Delhi,Not Applicable,110044,28,77,Free,22f4acd0-6341-4405-b054-ef91d1256753,113,18,,03/05/2021 05:11:49
+0,04-05-2021,693973,CO-ED SCHOOL JANGPURA SITE-5,Delhi,South East Delhi,Not Applicable,110044,28,77,Free,14e592e0-6027-478d-80e0-c4cf79e82695,137,18,,03/05/2021 05:11:49
+0,05-05-2021,693973,CO-ED SCHOOL JANGPURA SITE-5,Delhi,South East Delhi,Not Applicable,110044,28,77,Free,bf3c5f45-5674-497a-81a4-a045d42de709,116,18,,03/05/2021 05:11:49
+0,03-05-2021,693840,GBSSS RAMA KRISHNA MPK SITE -2,Delhi,South East Delhi,Not Applicable,110076,28,77,Free,bf0e82c2-0baf-45cb-95cb-c1a0d6eee420,85,18,,03/05/2021 05:11:49
+0,04-05-2021,693840,GBSSS RAMA KRISHNA MPK SITE -2,Delhi,South East Delhi,Not Applicable,110076,28,77,Free,d5f00754-d029-4051-8dd9-c730f779e605,93,18,,03/05/2021 05:11:49
+0,05-05-2021,693840,GBSSS RAMA KRISHNA MPK SITE -2,Delhi,South East Delhi,Not Applicable,110076,28,77,Free,ade01a7f-997c-45fc-89f7-6e0705cce911,127,18,,03/05/2021 05:11:49
+0,04-05-2021,693718,GBSSS MOLARBAND SITE-2,Delhi,South East Delhi,Not Applicable,110044,28,77,Free,f0035e8a-d845-4762-bccf-fed09294e535,4,18,,03/05/2021 05:11:49
+0,05-05-2021,693718,GBSSS MOLARBAND SITE-2,Delhi,South East Delhi,Not Applicable,110044,28,77,Free,12fa77c3-4400-4fa3-8996-3910dca45694,87,18,,03/05/2021 05:11:49
+0,03-05-2021,693732,KV Air Force TKD Site-2,Delhi,South East Delhi,Not Applicable,110044,28,77,Free,1c859fea-ec9f-4f69-a2ae-da0ab6526972,7,18,,03/05/2021 05:11:49
+0,04-05-2021,693732,KV Air Force TKD Site-2,Delhi,South East Delhi,Not Applicable,110044,28,77,Free,315ce52f-aa1a-4033-bf59-ec6dca5f2684,64,18,,03/05/2021 05:11:49
+0,05-05-2021,693732,KV Air Force TKD Site-2,Delhi,South East Delhi,Not Applicable,110044,28,77,Free,2ac46ec6-668b-464a-a3a6-199e7446ef71,104,18,,03/05/2021 05:11:49
+0,05-05-2021,693871,S. Hemu Kalani GSBV SITE-1,Delhi,South East Delhi,Not Applicable,110024,28,77,Free,a59f346a-50b3-4b86-be0f-5f1d3ea82774,12,18,,03/05/2021 05:11:49
+0,03-05-2021,693970,S. Hemu Kalani GSBV SITE-4,Delhi,South East Delhi,Not Applicable,110024,28,77,Free,6e6b46d4-4d6d-46be-8167-813532491c10,94,18,,03/05/2021 05:11:49
+0,04-05-2021,693970,S. Hemu Kalani GSBV SITE-4,Delhi,South East Delhi,Not Applicable,110024,28,77,Free,6fa11e86-f663-4097-ae0f-3fe844c7a0a5,35,18,,03/05/2021 05:11:49
+0,05-05-2021,693970,S. Hemu Kalani GSBV SITE-4,Delhi,South East Delhi,Not Applicable,110024,28,77,Free,e8716ae6-7bb1-4019-9ddd-83f1c2d8c120,115,18,,03/05/2021 05:11:49
+0,04-05-2021,693728,KV Air Force TKD Site-1,Delhi,South East Delhi,Not Applicable,110044,28,77,Free,c762df77-3ac8-4095-b13d-73db821c3050,3,18,,03/05/2021 05:11:49
+0,05-05-2021,693728,KV Air Force TKD Site-1,Delhi,South East Delhi,Not Applicable,110044,28,77,Free,3c4996d0-d4c5-40b8-b3bf-049e6512bc4e,56,18,,03/05/2021 05:11:49
+0,03-05-2021,693819,CO-ED SCHOOL JANGPURA SITE-4,Delhi,South East Delhi,Not Applicable,110044,28,77,Free,45dde924-8ec7-4338-af2b-cdfbdfd8acda,111,18,,03/05/2021 05:11:49
+0,04-05-2021,693819,CO-ED SCHOOL JANGPURA SITE-4,Delhi,South East Delhi,Not Applicable,110044,28,77,Free,1afe1687-db87-4197-a30b-5a791b662200,135,18,,03/05/2021 05:11:49
+0,05-05-2021,693819,CO-ED SCHOOL JANGPURA SITE-4,Delhi,South East Delhi,Not Applicable,110044,28,77,Free,569c2100-3114-4bd8-93e4-76505184eaed,134,18,,03/05/2021 05:11:49
+0,03-05-2021,693991,KV Air Force TKD Site-4,Delhi,South East Delhi,Not Applicable,110044,28,77,Free,5940dc34-6d66-4299-b575-3ac2f05072e3,111,18,,03/05/2021 05:11:49
+0,04-05-2021,693991,KV Air Force TKD Site-4,Delhi,South East Delhi,Not Applicable,110044,28,77,Free,73a48b19-0b34-415a-9b1e-137f981ed924,122,18,,03/05/2021 05:11:49
+0,05-05-2021,693991,KV Air Force TKD Site-4,Delhi,South East Delhi,Not Applicable,110044,28,77,Free,cd86ea50-2270-4724-b4e6-ca65a6d1f839,138,18,,03/05/2021 05:11:49
+0,03-05-2021,693899,SCHOOL OF EXCE. MPK SITE-2,Delhi,South East Delhi,Not Applicable,110076,28,77,Free,45e83353-9585-45d2-8f90-85886e848113,145,18,,03/05/2021 05:11:49
+0,04-05-2021,693899,SCHOOL OF EXCE. MPK SITE-2,Delhi,South East Delhi,Not Applicable,110076,28,77,Free,d156640a-f17d-40c8-b8fa-a0651f493b29,132,18,,03/05/2021 05:11:49
+0,05-05-2021,693899,SCHOOL OF EXCE. MPK SITE-2,Delhi,South East Delhi,Not Applicable,110076,28,77,Free,38e0314f-aa6e-484f-8bba-1cbd15f1a881,137,18,,03/05/2021 05:11:49
+0,03-05-2021,693864,SKV/SBV SANGAM VIHAR SITE-2,Delhi,South East Delhi,Not Applicable,110044,28,77,Free,442044e4-eaef-4940-b37a-8a194efce9e3,141,18,,03/05/2021 05:11:49
+0,04-05-2021,693864,SKV/SBV SANGAM VIHAR SITE-2,Delhi,South East Delhi,Not Applicable,110044,28,77,Free,cb7a47ef-08cb-4862-8181-965a56d5537b,142,18,,03/05/2021 05:11:49
+0,05-05-2021,693864,SKV/SBV SANGAM VIHAR SITE-2,Delhi,South East Delhi,Not Applicable,110044,28,77,Free,620c8406-128c-417d-8710-081041cbe6e1,148,18,,03/05/2021 05:11:49
+0,03-05-2021,693903,SBV KAUTILYA (1925003) SITE-2,Delhi,South East Delhi,Not Applicable,110048,28,77,Free,4ff90c03-f2f5-4203-b24a-d834b174e41a,95,18,,03/05/2021 05:11:49
+0,04-05-2021,693903,SBV KAUTILYA (1925003) SITE-2,Delhi,South East Delhi,Not Applicable,110048,28,77,Free,9ab385f1-afd7-4fb2-9bdf-37b0ba2909a8,132,18,,03/05/2021 05:11:49
+0,05-05-2021,693903,SBV KAUTILYA (1925003) SITE-2,Delhi,South East Delhi,Not Applicable,110048,28,77,Free,c929e364-c2e6-4bf8-bdee-473fa0d97b5a,139,18,,03/05/2021 05:11:49
+0,04-05-2021,693897,SBV KAUTILYA (1925003) SITE-1,Delhi,South East Delhi,Not Applicable,110048,28,77,Free,684ccdae-2dea-4a7f-a9d5-2c2ea1b74b46,27,18,,03/05/2021 05:11:49
+0,05-05-2021,693897,SBV KAUTILYA (1925003) SITE-1,Delhi,South East Delhi,Not Applicable,110048,28,77,Free,546e1ffe-2b1e-4f0a-8776-1091ea506a79,45,18,,03/05/2021 05:11:49
+0,03-05-2021,693814,CO-ED SCHOOL JANGPURA SITE-1,Delhi,South East Delhi,Not Applicable,110044,28,77,Free,9e1b26fd-0cbd-4ec7-8655-b350da1eda0d,1,18,,03/05/2021 05:11:49
+0,04-05-2021,693767,GGSSS BADARPUR NO.1 SITE-1,Delhi,South East Delhi,Not Applicable,110044,28,77,Free,c46e87cd-ebb2-4784-9ffa-d83ffaf10e0a,64,18,,03/05/2021 05:11:49
+0,05-05-2021,693767,GGSSS BADARPUR NO.1 SITE-1,Delhi,South East Delhi,Not Applicable,110044,28,77,Free,c9fc19ff-75b1-491e-b26b-4530b81cd163,113,18,,03/05/2021 05:11:49
+0,03-05-2021,694015,SBV KAUTILYA (1925003) SITE-4,Delhi,South East Delhi,Not Applicable,110048,28,77,Free,3ca0811c-08de-4989-a6b2-988d7528bc61,133,18,,03/05/2021 05:11:49
+0,04-05-2021,694015,SBV KAUTILYA (1925003) SITE-4,Delhi,South East Delhi,Not Applicable,110048,28,77,Free,46d8cd42-018b-4a5e-a24b-7bddddb707fa,105,18,,03/05/2021 05:11:49
+0,05-05-2021,694015,SBV KAUTILYA (1925003) SITE-4,Delhi,South East Delhi,Not Applicable,110048,28,77,Free,3683a1de-37f1-484b-a143-6bc9f0ef6c97,136,18,,03/05/2021 05:11:49
+0,03-05-2021,693734,KV Air Force TKD Site-3,Delhi,South East Delhi,Not Applicable,110044,28,77,Free,60a3c1fa-2e0d-4468-aff3-11d23960d37a,99,18,,03/05/2021 05:11:49
+0,04-05-2021,693734,KV Air Force TKD Site-3,Delhi,South East Delhi,Not Applicable,110044,28,77,Free,edd5e8e4-6191-452d-844b-af879d560c4e,106,18,,03/05/2021 05:11:49
+0,05-05-2021,693734,KV Air Force TKD Site-3,Delhi,South East Delhi,Not Applicable,110044,28,77,Free,69d7fbe1-36fb-44b3-ad7d-3bcd1af30217,141,18,,03/05/2021 05:11:49
+0,04-05-2021,693876,S. Hemu Kalani GSBV SITE-2,Delhi,South East Delhi,Not Applicable,110024,28,77,Free,c8acd9f2-2375-47cc-8f0f-c6a725fe14ba,30,18,,03/05/2021 05:11:49
+0,05-05-2021,693876,S. Hemu Kalani GSBV SITE-2,Delhi,South East Delhi,Not Applicable,110024,28,77,Free,26dcfe62-55bf-42ec-8509-23fe42ce64f3,92,18,,03/05/2021 05:11:49
+0,03-05-2021,693960,SBV KAUTILYA (1925003) SITE-3,Delhi,South East Delhi,Not Applicable,110048,28,77,Free,5a3d19c9-a168-43b5-9d40-e73a45d4e6cc,129,18,,03/05/2021 05:11:49
+0,04-05-2021,693960,SBV KAUTILYA (1925003) SITE-3,Delhi,South East Delhi,Not Applicable,110048,28,77,Free,022d6a7e-9b01-4af3-a75d-6f5e8104d926,139,18,,03/05/2021 05:11:49
+0,05-05-2021,693960,SBV KAUTILYA (1925003) SITE-3,Delhi,South East Delhi,Not Applicable,110048,28,77,Free,b4796a50-5e65-4adc-b508-b9b13a97e9bc,144,18,,03/05/2021 05:11:49
+0,03-05-2021,693858,SKV/SBV SANGAM VIHAR SITE-1,Delhi,South East Delhi,Not Applicable,110044,28,77,Free,48b2ec6f-c007-4e42-8014-98e71c82245e,133,18,,03/05/2021 05:11:49
+0,04-05-2021,693858,SKV/SBV SANGAM VIHAR SITE-1,Delhi,South East Delhi,Not Applicable,110044,28,77,Free,fb577996-27e6-4fc5-95f4-4754d3b6401e,135,18,,03/05/2021 05:11:49
+0,05-05-2021,693858,SKV/SBV SANGAM VIHAR SITE-1,Delhi,South East Delhi,Not Applicable,110044,28,77,Free,d5ef733f-29da-490a-9942-972aeec3d395,138,18,,03/05/2021 05:11:49
+0,04-05-2021,693836,GBSSS RAMA KRISHNA MPK SITE -1,Delhi,South East Delhi,Not Applicable,110076,28,77,Free,7b8116be-c8e9-4f48-8fca-6be4460ce73e,34,18,,03/05/2021 05:11:49
+0,05-05-2021,693836,GBSSS RAMA KRISHNA MPK SITE -1,Delhi,South East Delhi,Not Applicable,110076,28,77,Free,51e03bcf-2bed-49da-9bb2-ce9475669421,86,18,,03/05/2021 05:11:49
+0,03-05-2021,693824,CO-ED SCHOOL JANGPURA SITE-3,Delhi,South East Delhi,Not Applicable,110044,28,77,Free,c924489e-92ef-4b3d-b275-e69186783d08,57,18,,03/05/2021 05:11:49
+0,04-05-2021,693824,CO-ED SCHOOL JANGPURA SITE-3,Delhi,South East Delhi,Not Applicable,110044,28,77,Free,75ff1f41-c5ed-4616-8984-88c0062f5d2e,114,18,,03/05/2021 05:11:49
+0,05-05-2021,693824,CO-ED SCHOOL JANGPURA SITE-3,Delhi,South East Delhi,Not Applicable,110044,28,77,Free,b177b829-d8e6-4d8a-b63d-7e008a701ff5,123,18,,03/05/2021 05:11:49
+0,05-05-2021,693817,CO-ED SCHOOL JANGPURA SITE-2,Delhi,South East Delhi,Not Applicable,110044,28,77,Free,98d16434-6ef1-4d66-8242-c8c6eca18fb3,11,18,,03/05/2021 05:11:49
+0,03-05-2021,693715,SKV DEENDARPUR 4,Delhi,South West Delhi,Not Applicable,110071,28,77,Free,a77b45b4-39a3-4953-8319-639513f087a5,82,18,,03/05/2021 05:11:49
+0,04-05-2021,693715,SKV DEENDARPUR 4,Delhi,South West Delhi,Not Applicable,110071,28,77,Free,dfd9b204-4cdb-4a07-baeb-78436315f44e,135,18,,03/05/2021 05:11:49
+0,05-05-2021,693715,SKV DEENDARPUR 4,Delhi,South West Delhi,Not Applicable,110071,28,77,Free,bbeca820-e5bd-4b50-9041-6e50070fc08f,139,18,,03/05/2021 05:11:49
+0,03-05-2021,693740,GOVTBOYS SR.SECSCHOOL KHAIRA 3,Delhi,South West Delhi,Not Applicable,110043,76,28,Free,94d91422-1860-4e98-842f-6e6928bb8f33,73,18,,03/05/2021 05:11:49
+0,04-05-2021,693740,GOVTBOYS SR.SECSCHOOL KHAIRA 3,Delhi,South West Delhi,Not Applicable,110043,76,28,Free,8f8d41d8-7f55-422f-936b-be2bef18878d,75,18,,03/05/2021 05:11:49
+0,05-05-2021,693740,GOVTBOYS SR.SECSCHOOL KHAIRA 3,Delhi,South West Delhi,Not Applicable,110043,76,28,Free,6f43daca-1289-485a-a59a-44ef52282460,131,18,,03/05/2021 05:11:49
+0,03-05-2021,693741,GOVTBOYS SR.SECSCHOOL KHAIRA 4,Delhi,South West Delhi,Not Applicable,110043,76,28,Free,963477c9-e572-4f57-8612-1c4220834244,111,18,,03/05/2021 05:11:49
+0,04-05-2021,693741,GOVTBOYS SR.SECSCHOOL KHAIRA 4,Delhi,South West Delhi,Not Applicable,110043,76,28,Free,1bd5891f-d09d-4851-97a5-72150cebeb7f,142,18,,03/05/2021 05:11:49
+0,05-05-2021,693741,GOVTBOYS SR.SECSCHOOL KHAIRA 4,Delhi,South West Delhi,Not Applicable,110043,76,28,Free,2a9b63e9-a8a2-41ff-8d98-29fcc839b508,144,18,,03/05/2021 05:11:49
+0,03-05-2021,693710,SKV DEENDARPUR 3,Delhi,South West Delhi,Not Applicable,110071,28,77,Free,848ba67b-0bbc-48f7-b582-4fde287ee92d,62,18,,03/05/2021 05:11:49
+0,04-05-2021,693710,SKV DEENDARPUR 3,Delhi,South West Delhi,Not Applicable,110071,28,77,Free,603b422d-6726-4c66-8dd6-3b2d0b65390c,131,18,,03/05/2021 05:11:49
+0,05-05-2021,693710,SKV DEENDARPUR 3,Delhi,South West Delhi,Not Applicable,110071,28,77,Free,8ef1e5f7-4fa6-4bbe-a78d-04778f882fb8,142,18,,03/05/2021 05:11:49
+0,04-05-2021,693737,GOVTBOYS SR.SECSCHOOL KHAIRA 1,Delhi,South West Delhi,Not Applicable,110043,76,28,Free,209a518b-a89a-4616-944f-90b5c27072ad,49,18,,03/05/2021 05:11:49
+0,05-05-2021,693737,GOVTBOYS SR.SECSCHOOL KHAIRA 1,Delhi,South West Delhi,Not Applicable,110043,76,28,Free,30c267aa-d7c6-403b-9473-8eefe0b7a412,100,18,,03/05/2021 05:11:49
+0,04-05-2021,693703,SKV DEENDARPUR 1,Delhi,South West Delhi,Not Applicable,110071,28,77,Free,a2e86c0d-2799-483c-b678-0ed76ffb8df5,4,18,,03/05/2021 05:11:49
+0,05-05-2021,693703,SKV DEENDARPUR 1,Delhi,South West Delhi,Not Applicable,110071,28,77,Free,c92cd5bc-3e00-45d5-9a1e-da841f4a06f7,74,18,,03/05/2021 05:11:49
+0,04-05-2021,693708,SKV DEENDARPUR 2,Delhi,South West Delhi,Not Applicable,110071,28,77,Free,c9f1c0c7-f173-4f15-a801-ef0d36fbbad2,125,18,,03/05/2021 05:11:49
+0,05-05-2021,693708,SKV DEENDARPUR 2,Delhi,South West Delhi,Not Applicable,110071,28,77,Free,1e9b3586-1d74-45bc-aa7b-0a61280f3d69,123,18,,03/05/2021 05:11:49
+0,03-05-2021,693742,GOVTBOYS SRSECSCHOOL KHAIRA 5,Delhi,South West Delhi,Not Applicable,110043,76,28,Free,39cbe38f-87a3-4765-9f1a-c2dc26de4d68,97,18,,03/05/2021 05:11:49
+0,04-05-2021,693742,GOVTBOYS SRSECSCHOOL KHAIRA 5,Delhi,South West Delhi,Not Applicable,110043,76,28,Free,97f12954-6ce4-4d6a-b07a-979488df5077,141,18,,03/05/2021 05:11:49
+0,05-05-2021,693742,GOVTBOYS SRSECSCHOOL KHAIRA 5,Delhi,South West Delhi,Not Applicable,110043,76,28,Free,110998fb-de59-49f8-bea0-1793e7875c23,138,18,,03/05/2021 05:11:49
+0,04-05-2021,693739,GOVTBOYS SR.SECSCHOOL KHAIRA 2,Delhi,South West Delhi,Not Applicable,110043,76,28,Free,36af1579-ce5e-4c91-bf9d-9f431bdfb7f3,113,18,,03/05/2021 05:11:49
+0,05-05-2021,693739,GOVTBOYS SR.SECSCHOOL KHAIRA 2,Delhi,South West Delhi,Not Applicable,110043,76,28,Free,d9ed95cf-c059-4c32-8cae-b519955dd033,125,18,,03/05/2021 05:11:49
+0,03-05-2021,693725,SKV DEENDARPUR 5,Delhi,South West Delhi,Not Applicable,110071,28,77,Free,e91dbe3c-1f65-4444-a30d-674e6719fdff,95,18,,03/05/2021 05:11:49
+0,04-05-2021,693725,SKV DEENDARPUR 5,Delhi,South West Delhi,Not Applicable,110071,28,77,Free,41af3630-67c8-40bf-9472-a2a9d1e1bca9,142,18,,03/05/2021 05:11:49
+0,05-05-2021,693725,SKV DEENDARPUR 5,Delhi,South West Delhi,Not Applicable,110071,28,77,Free,c30a17d9-704e-4351-9179-bd204a7d7e43,144,18,,03/05/2021 05:11:49
+0,05-05-2021,693693,S B V (1516010),Delhi,West Delhi,Not Applicable,110015,27,77,Free,2276a301-7167-411b-bf2d-5aabfca75baa,62,18,,03/05/2021 05:11:49
+0,03-05-2021,693706,S B V (1516010) Sites 5,Delhi,West Delhi,Not Applicable,110015,28,77,Free,3aab9c0a-fa83-4fa1-a55c-e0d6307fd6c9,80,18,,03/05/2021 05:11:49
+0,04-05-2021,693706,S B V (1516010) Sites 5,Delhi,West Delhi,Not Applicable,110015,28,77,Free,e3d36797-ca16-4d49-8b2c-f9177d3abe5e,133,18,,03/05/2021 05:11:49
+0,05-05-2021,693706,S B V (1516010) Sites 5,Delhi,West Delhi,Not Applicable,110015,28,77,Free,e668708c-7801-4912-a1a7-c0d62022373c,144,18,,03/05/2021 05:11:49
+0,03-05-2021,693689,S.K.V Chand Nagar Sites 2,Delhi,West Delhi,Not Applicable,110015,28,77,Free,86420503-2aa2-4c03-b668-548c88098491,5,18,,03/05/2021 05:11:49
+0,04-05-2021,693689,S.K.V Chand Nagar Sites 2,Delhi,West Delhi,Not Applicable,110015,28,77,Free,90b582ef-9d67-4815-b2f7-1138c5823c0b,134,18,,03/05/2021 05:11:49
+0,05-05-2021,693689,S.K.V Chand Nagar Sites 2,Delhi,West Delhi,Not Applicable,110015,28,77,Free,51e94cd5-8f64-40a7-91a0-765c368c0fde,133,18,,03/05/2021 05:11:49
+0,03-05-2021,693843,GBSSS 1514112 Site 2,Delhi,West Delhi,Not Applicable,110064,28,77,Free,bbfa7f78-35d2-4e10-b685-7b63ff69b030,14,18,,03/05/2021 05:11:49
+0,04-05-2021,693843,GBSSS 1514112 Site 2,Delhi,West Delhi,Not Applicable,110064,28,77,Free,157aff77-1a02-4024-9607-212d542e228f,86,18,,03/05/2021 05:11:49
+0,05-05-2021,693843,GBSSS 1514112 Site 2,Delhi,West Delhi,Not Applicable,110064,28,77,Free,6ebaf35f-f7f1-4934-81c4-459e97dfa08a,123,18,,03/05/2021 05:11:49
+0,03-05-2021,693859,GBSSS 1514112 Site 5,Delhi,West Delhi,Not Applicable,110064,28,77,Free,56ff8cc9-93d3-4e2e-abd5-afd7869065df,130,18,,03/05/2021 05:11:49
+0,04-05-2021,693859,GBSSS 1514112 Site 5,Delhi,West Delhi,Not Applicable,110064,28,77,Free,d506056d-318f-4be2-84d8-f47f3aa27834,126,18,,03/05/2021 05:11:49
+0,05-05-2021,693859,GBSSS 1514112 Site 5,Delhi,West Delhi,Not Applicable,110064,28,77,Free,73f3770e-fb95-4339-baed-afb20a12f960,134,18,,03/05/2021 05:11:49
+0,04-05-2021,693687,S.K.V Chand Nagar Site 1,Delhi,West Delhi,Not Applicable,110015,28,77,Free,f8ba7d65-b0f6-4470-a0e1-3d601ea68824,33,18,,03/05/2021 05:11:49
+0,05-05-2021,693687,S.K.V Chand Nagar Site 1,Delhi,West Delhi,Not Applicable,110015,28,77,Free,a2e6a391-4f1a-49d4-b7c2-6f547f2b484d,71,18,,03/05/2021 05:11:49
+0,03-05-2021,693811,Govt Boys S.S.S 1617018 Site 1,Delhi,West Delhi,Not Applicable,110041,28,77,Free,7ddee716-0dd3-4673-8b72-d9d262885707,135,18,,03/05/2021 05:11:49
+0,04-05-2021,693811,Govt Boys S.S.S 1617018 Site 1,Delhi,West Delhi,Not Applicable,110041,28,77,Free,21011a7f-7e2d-4d29-91f9-6ac6071c8ea9,125,18,,03/05/2021 05:11:49
+0,05-05-2021,693811,Govt Boys S.S.S 1617018 Site 1,Delhi,West Delhi,Not Applicable,110041,28,77,Free,17f327f5-844c-4cd7-8bf8-17c09ce1da89,146,18,,03/05/2021 05:11:49
+0,04-05-2021,693714,S B V (ID 1516143) Sites 2,Delhi,West Delhi,Not Applicable,110008,28,77,Free,d4efefc7-da70-4a87-9dc0-faae963f3660,77,18,,03/05/2021 05:11:49
+0,05-05-2021,693714,S B V (ID 1516143) Sites 2,Delhi,West Delhi,Not Applicable,110008,28,77,Free,8d750b00-5217-4789-8e13-86ea89e24a33,110,18,,03/05/2021 05:11:49
+0,03-05-2021,693875,GGSSS 1516025 Site 4,Delhi,West Delhi,Not Applicable,110015,28,77,Free,209b75cd-ad8d-4a55-99df-339ca605ada7,121,18,,03/05/2021 05:11:49
+0,04-05-2021,693875,GGSSS 1516025 Site 4,Delhi,West Delhi,Not Applicable,110015,28,77,Free,eb7f208d-8c0a-4aeb-acba-7ba887e04268,146,18,,03/05/2021 05:11:49
+0,05-05-2021,693875,GGSSS 1516025 Site 4,Delhi,West Delhi,Not Applicable,110015,28,77,Free,e470763a-0704-4f9c-92f4-c68f635e8b44,148,18,,03/05/2021 05:11:49
+0,03-05-2021,693866,GGSSS 1516025 Site 2,Delhi,West Delhi,Not Applicable,110015,28,77,Free,1d171765-56ac-4443-9c92-8b644d83d355,73,18,,03/05/2021 05:11:49
+0,04-05-2021,693866,GGSSS 1516025 Site 2,Delhi,West Delhi,Not Applicable,110015,28,77,Free,6a890db0-3a98-4001-bf2e-3db7f8df100e,138,18,,03/05/2021 05:11:49
+0,05-05-2021,693866,GGSSS 1516025 Site 2,Delhi,West Delhi,Not Applicable,110015,28,77,Free,e6441cb6-6d73-4deb-ad28-baf51f8ae0e5,138,18,,03/05/2021 05:11:49
+0,03-05-2021,693719,S B V (ID 1516143) Sites 3,Delhi,West Delhi,Not Applicable,110008,28,77,Free,b56433d5-4af3-4485-93cf-2c56381a3015,26,18,,03/05/2021 05:11:49
+0,04-05-2021,693719,S B V (ID 1516143) Sites 3,Delhi,West Delhi,Not Applicable,110008,28,77,Free,fcbd7742-f941-41b2-9f10-a691f6c99956,111,18,,03/05/2021 05:11:49
+0,05-05-2021,693719,S B V (ID 1516143) Sites 3,Delhi,West Delhi,Not Applicable,110008,28,77,Free,c5c1c9e7-04d6-482b-8097-142488c74304,130,18,,03/05/2021 05:11:49
+0,04-05-2021,693810,Govt Boy SSS No.1 (1515010) 2,Delhi,West Delhi,Not Applicable,110026,28,77,Free,425e952f-3ed4-4fc4-8c6e-548a6673a7a1,79,18,,03/05/2021 05:11:49
+0,05-05-2021,693810,Govt Boy SSS No.1 (1515010) 2,Delhi,West Delhi,Not Applicable,110026,28,77,Free,109e5f83-4abb-4370-95bd-5e80449d787f,131,18,,03/05/2021 05:11:49
+0,05-05-2021,693729,S B V No .1 (1515007)Sites 2,Delhi,West Delhi,Not Applicable,110063,28,77,Free,3de7ff81-5475-4971-a538-eee7016c219e,39,18,,03/05/2021 05:11:49
+0,03-05-2021,693700,S B V (1516010) Sites 4,Delhi,West Delhi,Not Applicable,110015,28,77,Free,54e4c9ed-0cc7-439f-9fae-f5b71d94fddd,73,18,,03/05/2021 05:11:49
+0,04-05-2021,693700,S B V (1516010) Sites 4,Delhi,West Delhi,Not Applicable,110015,28,77,Free,e9c5f129-81a6-4dc6-8c8c-66780b739d49,86,18,,03/05/2021 05:11:49
+0,05-05-2021,693700,S B V (1516010) Sites 4,Delhi,West Delhi,Not Applicable,110015,28,77,Free,cc5f67cd-1a00-4215-a4cd-67d0bbbca1dc,132,18,,03/05/2021 05:11:49
+0,03-05-2021,693850,GBSSS 1514112 Site 3,Delhi,West Delhi,Not Applicable,110064,28,77,Free,a3283ea1-82cc-46eb-b12c-ad436abe94d3,128,18,,03/05/2021 05:11:49
+0,04-05-2021,693850,GBSSS 1514112 Site 3,Delhi,West Delhi,Not Applicable,110064,28,77,Free,19d5cf74-0d4d-45cf-bd5b-e0c980bcd71e,137,18,,03/05/2021 05:11:49
+0,05-05-2021,693850,GBSSS 1514112 Site 3,Delhi,West Delhi,Not Applicable,110064,28,77,Free,ecd128b1-7a9c-45f3-95f6-4f6cb4ac0352,138,18,,03/05/2021 05:11:49
+0,05-05-2021,693712,S B V (ID 1516143),Delhi,West Delhi,Not Applicable,110008,28,77,Free,95aac76c-1465-4589-98f4-d6eedd79ed3e,50,18,,03/05/2021 05:11:49
+0,04-05-2021,693842,GBSSS 1514112 Site 1,Delhi,West Delhi,Not Applicable,110064,28,77,Free,7262cc7e-8034-4966-9192-683aea75d39d,93,18,,03/05/2021 05:11:49
+0,05-05-2021,693842,GBSSS 1514112 Site 1,Delhi,West Delhi,Not Applicable,110064,28,77,Free,f3abdc82-3fc1-4bb1-befe-b8b63734331c,97,18,,03/05/2021 05:11:49
+0,04-05-2021,693695,S B V (1516010) Sites 2,Delhi,West Delhi,Not Applicable,110015,28,77,Free,25414871-cff9-41ad-9dcc-77511821a799,104,18,,03/05/2021 05:11:49
+0,05-05-2021,693695,S B V (1516010) Sites 2,Delhi,West Delhi,Not Applicable,110015,28,77,Free,5b5bed12-9352-417a-8b7b-a838f7457f58,138,18,,03/05/2021 05:11:49
+0,04-05-2021,693862,GGSSS 1516025 SIte 1,Delhi,West Delhi,Not Applicable,110015,28,77,Free,37796ad3-cc06-4e2a-91bf-2a972ae78c10,52,18,,03/05/2021 05:11:49
+0,05-05-2021,693862,GGSSS 1516025 SIte 1,Delhi,West Delhi,Not Applicable,110015,28,77,Free,5b55d3f1-f0f0-4819-9d2b-991c692551eb,114,18,,03/05/2021 05:11:49
+0,03-05-2021,693816,Sarvodaya Vidhyala 1516003,Delhi,West Delhi,Not Applicable,110015,28,77,Free,ff206319-1086-4e72-a8e4-767d64e40201,42,18,,03/05/2021 05:11:49
+0,04-05-2021,693816,Sarvodaya Vidhyala 1516003,Delhi,West Delhi,Not Applicable,110015,28,77,Free,71042b05-66d5-41c7-8d25-0864545b82a4,99,18,,03/05/2021 05:11:49
+0,05-05-2021,693816,Sarvodaya Vidhyala 1516003,Delhi,West Delhi,Not Applicable,110015,28,77,Free,526886b9-3b32-48a6-b17f-4a39d73e7cb7,114,18,,03/05/2021 05:11:49
+0,03-05-2021,693776,Govt Coed S.S.S 1617214 Site 2,Delhi,West Delhi,Not Applicable,110041,28,77,Free,c5495af3-a462-47a8-a2da-29d6c84f6af0,146,18,,03/05/2021 05:11:49
+0,04-05-2021,693776,Govt Coed S.S.S 1617214 Site 2,Delhi,West Delhi,Not Applicable,110041,28,77,Free,eb122265-f40b-4c6d-b4e8-3e1bfa2d50ae,140,18,,03/05/2021 05:11:49
+0,05-05-2021,693776,Govt Coed S.S.S 1617214 Site 2,Delhi,West Delhi,Not Applicable,110041,28,77,Free,7e1e9ce9-e47f-4705-8f46-2e5eae880ea2,146,18,,03/05/2021 05:11:49
+0,03-05-2021,693870,GGSSS 1516025 Site 3,Delhi,West Delhi,Not Applicable,110015,28,77,Free,d962605e-a149-4f85-879b-87eb2dda5aa3,123,18,,03/05/2021 05:11:49
+0,04-05-2021,693870,GGSSS 1516025 Site 3,Delhi,West Delhi,Not Applicable,110015,28,77,Free,9b1e7711-0119-42d5-9431-760046590db5,147,18,,03/05/2021 05:11:49
+0,05-05-2021,693870,GGSSS 1516025 Site 3,Delhi,West Delhi,Not Applicable,110015,28,77,Free,d297ca23-dfd1-4e67-8833-1de56cb5b9a1,142,18,,03/05/2021 05:11:49
+0,03-05-2021,693808,Govt Boys S S S 1617018 Site 2,Delhi,West Delhi,Not Applicable,110041,28,77,Free,be83c50d-1b94-4f68-9a21-ea8cb8701eb5,141,18,,03/05/2021 05:11:49
+0,04-05-2021,693808,Govt Boys S S S 1617018 Site 2,Delhi,West Delhi,Not Applicable,110041,28,77,Free,60c7f390-93ca-4828-82ac-47cf18b5e9fa,134,18,,03/05/2021 05:11:49
+0,05-05-2021,693808,Govt Boys S S S 1617018 Site 2,Delhi,West Delhi,Not Applicable,110041,28,77,Free,c90c72fb-836f-47e7-8304-d0c5647c2e14,145,18,,03/05/2021 05:11:49
+0,03-05-2021,693771,Govt Coed S.S.S 1617214,Delhi,West Delhi,Not Applicable,110041,28,77,Free,d72abb51-f129-48f6-89d6-21f3b3dd95a1,99,18,,03/05/2021 05:11:49
+0,04-05-2021,693771,Govt Coed S.S.S 1617214,Delhi,West Delhi,Not Applicable,110041,28,77,Free,9b51bca2-bbad-4d48-aacf-1706b983befa,127,18,,03/05/2021 05:11:49
+0,05-05-2021,693771,Govt Coed S.S.S 1617214,Delhi,West Delhi,Not Applicable,110041,28,77,Free,1f983d30-45ea-4fc8-9d61-688f2827214e,142,18,,03/05/2021 05:11:49
+0,04-05-2021,693722,S B V (ID 1516143) SITE 4,Delhi,West Delhi,Not Applicable,110008,28,77,Free,1e82075f-5884-476b-bf82-1fce30c4510d,54,18,,03/05/2021 05:11:49
+0,05-05-2021,693722,S B V (ID 1516143) SITE 4,Delhi,West Delhi,Not Applicable,110008,28,77,Free,3dab5e12-6977-469a-80b6-a14600dcf88d,110,18,,03/05/2021 05:11:49
+0,03-05-2021,693852,GBSSS 1514112 Site 4,Delhi,West Delhi,Not Applicable,110064,28,77,Free,062c0138-cbda-464b-bf0f-21f35e261aec,131,18,,03/05/2021 05:11:49
+0,04-05-2021,693852,GBSSS 1514112 Site 4,Delhi,West Delhi,Not Applicable,110064,28,77,Free,86f3d496-640e-419a-8657-c82caac24ebb,133,18,,03/05/2021 05:11:49
+0,05-05-2021,693852,GBSSS 1514112 Site 4,Delhi,West Delhi,Not Applicable,110064,28,77,Free,0ca25ddc-5417-482b-94e6-a04b824196d6,144,18,,03/05/2021 05:11:49
+0,05-05-2021,693805,Govt Boy SSS No.1 (1515010),Delhi,West Delhi,Not Applicable,110026,28,77,Free,87a6dba9-546d-4de4-89fa-a520c9b1d9d1,44,18,,03/05/2021 05:11:49
+0,04-05-2021,693831,G.S.B.V (1617002) Site 1,Delhi,West Delhi,Not Applicable,110041,28,77,Free,f2485830-7d19-4a73-aa01-d4731566ac82,70,18,,03/05/2021 05:11:49
+0,05-05-2021,693831,G.S.B.V (1617002) Site 1,Delhi,West Delhi,Not Applicable,110041,28,77,Free,9e4921f3-7f79-46f7-ba36-8dad27ef576e,103,18,,03/05/2021 05:11:49
+0,03-05-2021,693834,G.S.B.V (1617002) SITE 2,Delhi,West Delhi,Not Applicable,110041,28,77,Free,f8e86640-f128-4d0b-8bd0-e0535b6ced5b,96,18,,03/05/2021 05:11:49
+0,04-05-2021,693834,G.S.B.V (1617002) SITE 2,Delhi,West Delhi,Not Applicable,110041,28,77,Free,c3e96257-ae7c-4d9b-b236-f0974906dabc,129,18,,03/05/2021 05:11:49
+0,05-05-2021,693834,G.S.B.V (1617002) SITE 2,Delhi,West Delhi,Not Applicable,110041,28,77,Free,7c750ccc-9e7c-4ea4-aab4-805d1b63bfdc,145,18,,03/05/2021 05:11:49
+0,04-05-2021,693697,S B V (1516010) Sites 3,Delhi,West Delhi,Not Applicable,110015,28,77,Free,d2424fa7-88f7-4c2d-a8a2-0a73458cd23b,133,18,,03/05/2021 05:11:49
+0,05-05-2021,693697,S B V (1516010) Sites 3,Delhi,West Delhi,Not Applicable,110015,28,77,Free,7dedc5f5-fd7d-40b7-83bc-5e4da9e1c325,148,18,,03/05/2021 05:11:49
+0,03-05-2021,693792,Govt Coed S.S.S 1617029,Delhi,West Delhi,Not Applicable,110041,28,77,Free,45df4afd-fb48-40bb-b617-7510b8523033,125,18,,03/05/2021 05:11:49
+0,04-05-2021,693792,Govt Coed S.S.S 1617029,Delhi,West Delhi,Not Applicable,110041,28,77,Free,f192bbc0-3be6-49d0-989e-1567bb7b2c47,143,18,,03/05/2021 05:11:49
+0,05-05-2021,693792,Govt Coed S.S.S 1617029,Delhi,West Delhi,Not Applicable,110041,28,77,Free,e2a82fc6-e777-4eb4-af26-9d7ba62fbb6f,144,18,,03/05/2021 05:11:49
+0,05-05-2021,693727,S B V No. 1 (1515007),Delhi,West Delhi,Not Applicable,110063,28,77,Free,8178fdfb-3ee0-4afe-8f29-9cecb459cab6,25,18,,03/05/2021 05:11:49
+0,03-05-2021,693832,Sarvodya Kanya Vidyala 1516019,Delhi,West Delhi,Not Applicable,110015,28,77,Free,dac1091e-7603-43e2-88a8-ba21789a3b72,82,18,,03/05/2021 05:11:49
+0,04-05-2021,693832,Sarvodya Kanya Vidyala 1516019,Delhi,West Delhi,Not Applicable,110015,28,77,Free,f142da75-1a67-439f-a44a-a20c4b6ce7d7,75,18,,03/05/2021 05:11:49
+0,05-05-2021,693832,Sarvodya Kanya Vidyala 1516019,Delhi,West Delhi,Not Applicable,110015,28,77,Free,ab19dfed-88e4-4def-b471-ff22918f4d28,121,18,,03/05/2021 05:11:49
+0,03-05-2021,693690,S.K.V Chand Nagar Sites 3,Delhi,West Delhi,Not Applicable,110015,28,77,Free,44a91f21-9489-48cf-b556-d4110413aa35,65,18,,03/05/2021 05:11:49
+0,04-05-2021,693690,S.K.V Chand Nagar Sites 3,Delhi,West Delhi,Not Applicable,110015,28,77,Free,51c2478d-2593-4f13-9aba-8e7f7676ec9f,126,18,,03/05/2021 05:11:49
+0,05-05-2021,693690,S.K.V Chand Nagar Sites 3,Delhi,West Delhi,Not Applicable,110015,28,77,Free,24a7ef88-9d19-488d-bf3a-a5917136d993,119,18,,03/05/2021 05:11:49
+0,03-05-2021,693839,G.S.B.V (1617002) SITE 3,Delhi,West Delhi,Not Applicable,110041,28,77,Free,80433b33-6c9a-473a-b697-98bb39cfe35b,133,18,,03/05/2021 05:11:49
+0,04-05-2021,693839,G.S.B.V (1617002) SITE 3,Delhi,West Delhi,Not Applicable,110041,28,77,Free,ed8a5225-5593-465e-bf17-41ffe0890573,147,18,,03/05/2021 05:11:49
+0,05-05-2021,693839,G.S.B.V (1617002) SITE 3,Delhi,West Delhi,Not Applicable,110041,28,77,Free,bc116337-115e-44ee-bed5-30cbded1faf1,148,18,,03/05/2021 05:11:49
+0,05-05-2021,693804,Govt S.B.V 1617254,Delhi,West Delhi,Not Applicable,110063,28,77,Free,17f4c692-ce71-411f-8b57-ae8474216a22,32,18,,03/05/2021 05:11:49
+0,03-05-2021,240984,PHC Dholavira 18 To 44,Gujarat,Kutch,Bhachau,370165,23,70,Free,ecfee06d-c153-490c-a8f3-5f7e8da49b07,19,18,,03/05/2021 05:11:49
+0,03-05-2021,628803,PHC Maikalan,Haryana,Charkhi Dadri,Jhojhu Kalan,127310,28,76,Free,c8b38c89-198f-4993-a8ab-e49263fcf57d,33,18,,03/05/2021 05:11:49
+0,03-05-2021,566770,Ranila PHC,Haryana,Charkhi Dadri,Baund kalan,127306,28,76,Free,f654472a-139d-4516-942f-6219391c4a5d,3,18,,03/05/2021 05:11:49
+0,03-05-2021,572316,Santokhpura PHC,Haryana,Charkhi Dadri,Jhojhu Kalan,127022,28,76,Free,4c6b2af6-35fb-49b7-9a0e-c3b5d619657d,58,18,,03/05/2021 05:11:49
+0,03-05-2021,566720,Government School-1 Gopi,Haryana,Charkhi Dadri,Gopi,127308,28,75,Free,0b06e341-388e-4e75-aaba-aa208c8eec14,39,18,,03/05/2021 05:11:49
+0,03-05-2021,572417,Mankawas PHC,Haryana,Charkhi Dadri,Jhojhu Kalan,127306,28,76,Free,fe7c9e80-9121-4bd5-a569-146ddd3a6790,1,18,,03/05/2021 05:11:49
+0,03-05-2021,565309,Balkara PHC,Haryana,Charkhi Dadri,Jhojhu Kalan,127022,28,76,Free,b1551c82-6d2b-4671-a1f0-b6842272fad5,24,18,,03/05/2021 05:11:49
+0,03-05-2021,565966,PHC Pirthla,Haryana,Fatehabad,Bhuna,125120,29,75,Free,9c05aa93-0072-4ab0-a404-748833baa761,13,18,,03/05/2021 05:11:49
+0,03-05-2021,566230,PHC Nagpur,Haryana,Fatehabad,Ratia,125051,29,75,Free,f78b5b76-cb8f-4825-ba5f-e50cf7d3e055,10,18,,03/05/2021 05:11:49
+0,03-05-2021,147819,UPHC Ratia,Haryana,Fatehabad,Ratia,125051,29,75,Free,b3a4fb27-8647-4807-8114-084727b9dddd,6,18,,03/05/2021 05:11:49
+0,03-05-2021,566053,Meyond Kalan PHC,Haryana,Fatehabad,Jakhal,125133,29,75,Free,88638706-ef22-45e5-ba17-9eaebe66d1ea,20,18,,03/05/2021 05:11:49
+0,03-05-2021,566065,Kullan PHC,Haryana,Fatehabad,Jakhal,125106,29,75,Free,601c105f-c67b-4333-9c24-7bedff730a25,27,18,,03/05/2021 05:11:49
+0,03-05-2021,565961,PHC Samain,Haryana,Fatehabad,Jakhal,125120,29,75,Free,3ebdaa63-47ba-4f83-a54a-3ff2136b8fdf,8,18,,03/05/2021 05:11:49
+0,03-05-2021,604443,Aherawan PHC,Haryana,Fatehabad,Ratia,125051,29,75,Free,19ab424a-afd4-47f7-ae7a-6fbc8d0c692b,2,18,,03/05/2021 05:11:49
+0,03-05-2021,693613,Civil Hospital Narnaund,Haryana,Hisar,Narnaund,125039,29,76,Free,2e92e45e-af24-4a6a-9835-df1b0b9b3a76,70,18,,03/05/2021 05:11:49
+0,04-05-2021,693613,Civil Hospital Narnaund,Haryana,Hisar,Narnaund,125039,29,76,Free,f6630a18-4895-4cf2-b46e-8505b78b373e,180,18,,03/05/2021 05:11:49
+0,06-05-2021,693613,Civil Hospital Narnaund,Haryana,Hisar,Narnaund,125039,29,76,Free,c5a0ba7c-df56-414b-83cc-50422ac2f42b,176,18,,03/05/2021 05:11:49
+0,04-05-2021,693627,Civil Hospital Barwala,Haryana,Hisar,Barwala,125121,29,75,Free,a5c963c6-ef7c-4538-95d6-c08c1d77b611,2,18,,03/05/2021 05:11:49
+0,04-05-2021,693234,CHC Chhara 18,Haryana,Jhajjar,Chhara,124504,28,76,Free,0264eda8-6830-47d2-85e1-61a3969e7562,3,18,,03/05/2021 05:11:49
+0,07-05-2021,693302,SDH Beri 18,Haryana,Jhajjar,Beri,124201,28,76,Free,007ad9f0-fe5e-4c71-86c4-2ccd3de03e86,1,18,,03/05/2021 05:11:49
+0,03-05-2021,693261,CHC Dubaldhan 18,Haryana,Jhajjar,Dubaldhan,124202,28,76,Free,764f1807-a187-4e18-abd5-5bfaad5c8425,1,18,,03/05/2021 05:11:49
+0,07-05-2021,693261,CHC Dubaldhan 18,Haryana,Jhajjar,Dubaldhan,124202,28,76,Free,d4f6f1f1-0c41-4dad-98a4-b5e70d630f21,1,18,,03/05/2021 05:11:49
+0,08-05-2021,693261,CHC Dubaldhan 18,Haryana,Jhajjar,Dubaldhan,124202,28,76,Free,fc0d16be-84ea-41e3-9403-092e821019e1,2,18,,03/05/2021 05:11:49
+0,03-05-2021,591424,CHC Pundri,Haryana,Kaithal,Pundri,136026,29,76,Free,31fa622b-d587-4473-8890-b25bd845a32b,82,18,,03/05/2021 05:11:49
+0,03-05-2021,589164,CHC Kalayat,Haryana,Kaithal,Kalayat,136117,29,76,Free,57198784-568a-4881-a098-6c035faeb698,55,18,,03/05/2021 05:11:49
+0,03-05-2021,599665,CHC Guhla,Haryana,Kaithal,Guhla,136035,30,76,Free,3867523d-a303-4b35-8e00-7141e020f31a,67,18,,03/05/2021 05:11:49
+0,03-05-2021,572770,CHC Kaul,Haryana,Kaithal,Kaul,136021,29,76,Free,aa059afd-8745-438a-906b-8248c44502e5,62,18,,03/05/2021 05:11:49
+0,03-05-2021,608375,PHC Dhand,Haryana,Kaithal,Kaul,136020,29,76,Free,336f2c10-d2ca-4210-a712-6733c8ed9a52,95,18,,03/05/2021 05:11:49
+0,07-05-2021,608375,PHC Dhand,Haryana,Kaithal,Kaul,136020,29,76,Free,5f26d59a-e028-488d-8cad-8e8126038917,85,18,,03/05/2021 05:11:49
+0,03-05-2021,571244,PHC Padla,Haryana,Kaithal,Siwan,136027,29,76,Free,264c3dd2-f7cf-49c4-b724-d9e2a6ca363b,179,18,,03/05/2021 05:11:49
+0,03-05-2021,577404,CHC Siwan,Haryana,Kaithal,Siwan,136033,29,76,Free,78a4cad8-2af3-480a-a309-1ba3c940eda7,71,18,,03/05/2021 05:11:49
+0,04-05-2021,577404,CHC Siwan,Haryana,Kaithal,Siwan,136033,29,76,Free,f9a07218-cf0f-4682-94bb-42076b87e367,3,18,,03/05/2021 05:11:49
+0,03-05-2021,565452,CHC Rajound,Haryana,Kaithal,Rajound,136044,29,76,Free,faa43ccd-7df5-4fb6-a760-bf8468914a4f,100,18,,03/05/2021 05:11:49
+0,04-05-2021,565452,CHC Rajound,Haryana,Kaithal,Rajound,136044,29,76,Free,3737c672-cdf4-4248-b6a0-9a56120f46c7,25,18,,03/05/2021 05:11:49
+0,03-05-2021,11771,Sehlang CHC,Haryana,Mahendragarh,Sehlang,123027,28,73,Free,73707ae9-4b66-4183-ac7d-5322b240a67e,5,18,,03/05/2021 05:11:49
+0,03-05-2021,12602,Satnali CHC,Haryana,Mahendragarh,Satnali,123024,28,76,Free,00e802dd-ba4b-4368-b652-e308af5b46b7,132,18,,03/05/2021 05:11:49
+0,03-05-2021,602726,SHKM COLLEGE NALHAR -18,Haryana,Nuh,Nuh,122107,28,76,Free,49f44b43-53f0-4cea-bf43-a96e008b4647,13,18,,03/05/2021 05:11:49
+0,04-05-2021,602726,SHKM COLLEGE NALHAR -18,Haryana,Nuh,Nuh,122107,28,76,Free,72653d6d-be20-4be2-a293-07980483b35c,71,18,,03/05/2021 05:11:49
+0,05-05-2021,602726,SHKM COLLEGE NALHAR -18,Haryana,Nuh,Nuh,122107,28,76,Free,4c74f72c-1ad0-45ea-b9af-936ffcb5e2b1,83,18,,03/05/2021 05:11:49
+0,03-05-2021,602192,FEROZEPUR JHIRKA CHC - 18,Haryana,Nuh,Ferozepur Jhirka,122104,27,76,Free,e8bc7dfd-f15e-439b-8346-f25ac6bc5543,40,18,,03/05/2021 05:11:49
+0,04-05-2021,602192,FEROZEPUR JHIRKA CHC - 18,Haryana,Nuh,Ferozepur Jhirka,122104,27,76,Free,bdf5bbda-a230-4c77-ab6d-ed31203e2e96,96,18,,03/05/2021 05:11:49
+0,05-05-2021,602192,FEROZEPUR JHIRKA CHC - 18,Haryana,Nuh,Ferozepur Jhirka,122104,27,76,Free,a54912f4-17af-476e-ab28-92428716d459,96,18,,03/05/2021 05:11:49
+0,03-05-2021,561949,Nuh CHC,Haryana,Nuh,Nuh,122107,28,77,Free,ed059758-9f9a-4bb3-81a1-a67a75b7f1b5,1,18,,03/05/2021 05:11:49
+0,04-05-2021,561949,Nuh CHC,Haryana,Nuh,Nuh,122107,28,77,Free,58c7524e-7d19-4777-8f82-1c9e57bca4f2,36,18,,03/05/2021 05:11:49
+0,05-05-2021,561949,Nuh CHC,Haryana,Nuh,Nuh,122107,28,77,Free,ca9446f9-ac36-43f8-8de0-cdf9b7c71e6d,73,18,,03/05/2021 05:11:49
+0,03-05-2021,564627,CHC FP JHIRKA,Haryana,Nuh,Ferozepur Jhirka,122104,27,76,Free,6c611f1b-ae29-482a-ab9c-8eda880f2293,4,18,,03/05/2021 05:11:49
+0,03-05-2021,602757,CIVIL HOSPITAL MANDIKHERA- 18,Haryana,Nuh,Ferozepur Jhirka,122108,27,77,Free,dfbeb234-8460-4957-b985-367ae155eabf,72,18,,03/05/2021 05:11:49
+0,04-05-2021,602757,CIVIL HOSPITAL MANDIKHERA- 18,Haryana,Nuh,Ferozepur Jhirka,122108,27,77,Free,6729a5e4-a38f-4668-9cec-966e6890104d,94,18,,03/05/2021 05:11:49
+0,05-05-2021,602757,CIVIL HOSPITAL MANDIKHERA- 18,Haryana,Nuh,Ferozepur Jhirka,122108,27,77,Free,0a007289-dda6-4773-89b7-2716e53bd503,94,18,,03/05/2021 05:11:49
+0,03-05-2021,602697,PUNHANA CHC- 18,Haryana,Nuh,Punhana,122508,27,77,Free,03686014-ef84-48c2-9e72-d52937a7c091,299,18,,03/05/2021 05:11:49
+0,03-05-2021,693683,Chc Hathin Eighteen Plus,Haryana,Palwal,Hathin,121102,28,77,Free,8ccbb664-3180-41f6-b675-cfcef9b1745a,1,18,,03/05/2021 05:11:49
+0,03-05-2021,693822,Hodal Eighteen Plus,Haryana,Palwal,Hodal,121102,27,77,Free,ce0cd59a-40e9-433a-973b-b1172a1eb300,1,18,,03/05/2021 05:11:49
+0,03-05-2021,615952,Naraina CHC COViSheild,Haryana,Panipat,Naraina,132101,29,76,Free,aeec45fe-7788-4122-a830-eeeea9f1ff00,2,18,,03/05/2021 05:11:49
+0,03-05-2021,578665,Rair Kalan PHC,Haryana,Panipat,Madlauda,132113,29,76,Free,6fe5ff04-b6e6-49eb-ae67-0f7e238e5717,61,18,,03/05/2021 05:11:49
+0,03-05-2021,185384,Phc Madlauda,Haryana,Panipat,Madlauda,132113,0,0,Free,3ca6d319-4e9a-4cdb-80bf-3b7906bce81e,3,18,,03/05/2021 05:11:49
+0,03-05-2021,572245,Atta PHC,Haryana,Panipat,Naraina,132122,29,77,Free,53ea4c24-efc2-48ee-a645-811ff3bafead,1,18,,03/05/2021 05:11:49
+0,03-05-2021,36476,Ahar CHC,Haryana,Panipat,Ahar,132107,29,76,Free,ee1cfa96-1803-492b-bbf1-ecf97a7fcf45,37,18,,03/05/2021 05:11:49
+0,04-05-2021,36476,Ahar CHC,Haryana,Panipat,Ahar,132107,29,76,Free,d57d0c25-abcd-449c-a465-8d2d3943f9ed,50,18,,03/05/2021 05:11:49
+0,04-05-2021,564894,Samalkha SDH,Haryana,Panipat,Samalkha,132101,29,76,Free,93147345-160b-4aa6-a37e-b718ca8e1cb5,33,18,,03/05/2021 05:11:49
+0,03-05-2021,572079,Kawi PHC,Haryana,Panipat,Madlauda,132113,29,76,Free,a721dca4-72a8-46ac-9571-2e9e3cb9d572,74,18,,03/05/2021 05:11:49
+0,03-05-2021,692306,Dhottar PHC,Haryana,Sirsa,Rania,125076,29,74,Free,860acbd9-9ab9-47b6-b0e7-e88ad6a2dbaa,42,18,,03/05/2021 05:11:49
+0,03-05-2021,597904,Baragudha CHC,Haryana,Sirsa,Baragudha,125078,0,0,Free,15bd9a61-26b5-4da8-9447-aea6a8e2cf9c,42,18,,03/05/2021 05:11:49
+0,03-05-2021,692304,Kharian PHC,Haryana,Sirsa,Rania,125076,29,74,Free,0f361c8f-2bd0-48d8-a20f-e1f643a0fcbf,11,18,,03/05/2021 05:11:49
+0,03-05-2021,91951,Randhawa PHC,Haryana,Sirsa,Nathusari Chopta,125055,29,75,Free,0aaac5a4-99ed-432f-abe8-f8cbc5dc8680,1,18,,03/05/2021 05:11:49
+0,03-05-2021,692336,Dadu PHC,Haryana,Sirsa,Kalanwali,125201,29,75,Free,309efb6a-7612-44db-ada4-e9a24cb4875b,90,18,,03/05/2021 05:11:49
+0,03-05-2021,692339,Rori PHC,Haryana,Sirsa,Kalanwali,125055,0,0,Free,a913dba1-1345-46a3-8c1c-2a5f6beed6e4,28,18,,03/05/2021 05:11:49
+0,03-05-2021,692326,Jagmalera PHC,Haryana,Sirsa,Ellenabad,125075,29,74,Free,b3fbb685-1863-4bd3-bdc6-56c798b5c8d2,60,18,,03/05/2021 05:11:49
+0,03-05-2021,597913,Odhan CHC,Haryana,Sirsa,Odhan,125077,29,74,Free,cd3b50e5-0d82-4e7c-965d-2c7c9ccc1ab2,1,18,,03/05/2021 05:11:49
+0,03-05-2021,597909,Kalanwali CHC,Haryana,Sirsa,Kalanwali,125201,29,74,Free,efe6ab3c-cd39-4d52-b2c6-fbaa508fb5b2,1,18,,03/05/2021 05:11:49
+0,03-05-2021,587630,Astha Physiotherapy Center,Haryana,Sonipat,Sonipat,131001,28,77,Free,f6209266-f886-4e02-8287-812578f0b003,46,18,,03/05/2021 05:11:49
+0,03-05-2021,565064,Fazilpur SC B Zafrabad PHC,Haryana,Sonipat,Juan,131024,28,77,Free,62aac67f-76a3-480b-bdca-8e04284c0b0b,1,18,,03/05/2021 05:11:49
+0,03-05-2021,565118,Mundlana CHC Covishield,Haryana,Sonipat,Mundlana,131306,29,76,Free,0acc8e4b-b909-419b-a6fb-e5e2291bca60,2,18,,03/05/2021 05:11:49
+0,04-05-2021,565118,Mundlana CHC Covishield,Haryana,Sonipat,Mundlana,131306,29,76,Free,b929ca74-780b-4f99-8c7b-b056f9759001,36,18,,03/05/2021 05:11:49
+0,03-05-2021,566018,CHC Firozpur Bangar,Haryana,Sonipat,Firozpur Bangar,131402,28,76,Free,17ce13a6-94a1-4580-bcb9-b19cef9b2422,10,18,,03/05/2021 05:11:49
+0,04-05-2021,636965,Kundli Phc,Haryana,Sonipat,Badkhalsha,131028,28,77,Free,135d16e6-bb24-42ee-8467-2e20d02fe968,3,18,,03/05/2021 05:11:49
+0,03-05-2021,19418,Bhainswal Kalan CHC,Haryana,Sonipat,Gohana,131409,29,76,Free,20541636-f2c7-42d3-9cc5-737885932759,80,18,,03/05/2021 05:11:49
+0,04-05-2021,19418,Bhainswal Kalan CHC,Haryana,Sonipat,Gohana,131409,29,76,Free,54fe1d2f-9e20-44d8-bbb2-95ab37340454,94,18,,03/05/2021 05:11:49
+0,03-05-2021,629667,Datauli PHC,Haryana,Sonipat,Ganaur,131101,29,77,Free,a5ce7a67-f802-4c29-96f4-41ad20fa0fce,83,18,,03/05/2021 05:11:49
+0,03-05-2021,19656,Bidhlan PHC,Haryana,Sonipat,Kharkhoda,131402,28,76,Free,87232daf-2545-4296-9eb8-996d1a294e91,106,18,,03/05/2021 05:11:49
+0,04-05-2021,19656,Bidhlan PHC,Haryana,Sonipat,Kharkhoda,131402,28,76,Free,bbe9a772-b03c-456b-a8e4-c21944dd8e03,106,18,,03/05/2021 05:11:49
+0,03-05-2021,571775,Baroda PHC,Haryana,Sonipat,Mundlana,131301,29,76,Free,636d5744-f4aa-40e0-ae37-7591730228ce,4,18,,03/05/2021 05:11:49
+0,04-05-2021,571775,Baroda PHC,Haryana,Sonipat,Mundlana,131301,29,76,Free,7d7e5593-b81a-448f-a2e8-411d196c1505,7,18,,03/05/2021 05:11:49
+0,03-05-2021,627239,Phc Sisana,Haryana,Sonipat,Kharkhoda,131402,28,76,Free,93501691-e11a-4ca6-8ec4-6667ec45a04a,86,18,,03/05/2021 05:11:49
+0,04-05-2021,627239,Phc Sisana,Haryana,Sonipat,Kharkhoda,131402,28,76,Free,b0cd3b4f-b2ce-4016-9c1d-c4d9ea89fa65,104,18,,03/05/2021 05:11:49
+0,03-05-2021,569725,Bega PHC,Haryana,Sonipat,Ganaur,131101,29,77,Free,80a60f55-7bf4-4131-8f72-d174144b801c,7,18,,03/05/2021 05:11:49
+0,03-05-2021,19428,Civil Hospital Sonipat,Haryana,Sonipat,Sonipat,131001,28,77,Free,bf1cc388-d00b-4c6d-a4a4-84e6f15e0be3,94,18,,03/05/2021 05:11:49
+0,03-05-2021,19425,PHC Mahra,Haryana,Sonipat,Juan,131024,29,76,Free,e036869e-b113-4dac-b6e3-e9c0bfa1df32,107,18,,03/05/2021 05:11:49
+0,03-05-2021,627881,Aggarwal Dharamshala,Haryana,Sonipat,Sonipat,131001,28,77,Free,4b97d68f-1766-4725-8d68-bc36c8220451,16,18,,03/05/2021 05:11:49
+0,03-05-2021,569772,Mohana PHC,Haryana,Sonipat,Juan,131001,29,76,Free,5b1bea10-1811-451e-9c64-86a7d7bc2f36,67,18,,03/05/2021 05:11:49
+0,03-05-2021,568558,SDH Gohana,Haryana,Sonipat,Gohana,131301,29,76,Free,5dde0afc-9951-4c96-bd12-ecaf24e6ca22,161,18,,03/05/2021 05:11:49
+0,03-05-2021,19625,Jain Sthank,Haryana,Sonipat,Sonipat,131001,28,77,Free,5019f3c9-f2b4-4e41-8962-7560b3498b06,1,18,,03/05/2021 05:11:49
+0,03-05-2021,627377,Khanda PHC Cowin,Haryana,Sonipat,Kharkhoda,131402,28,76,Free,4c31683f-aa5f-4f0c-acdc-7b6b9629f398,107,18,,03/05/2021 05:11:49
+0,04-05-2021,627377,Khanda PHC Cowin,Haryana,Sonipat,Kharkhoda,131402,28,76,Free,0ae4e434-1737-4f00-9837-69e64fbcffaa,107,18,,03/05/2021 05:11:49
+0,03-05-2021,19424,Madina PHC,Haryana,Sonipat,Gohana,131301,29,76,Free,2a9c4354-ea0e-48cf-915d-9f44176ee301,79,18,,03/05/2021 05:11:49
+0,03-05-2021,33522,Khanpur Kalan PHC,Haryana,Sonipat,Gohana,131305,29,76,Free,4f6cb260-10d7-48ef-8368-48a70fd9d17e,94,18,,03/05/2021 05:11:49
+0,04-05-2021,33522,Khanpur Kalan PHC,Haryana,Sonipat,Gohana,131305,29,76,Free,953ecace-c8de-4be3-93fb-b2d5cb0cf9c4,94,18,,03/05/2021 05:11:49
+0,03-05-2021,19708,Moi Majri PHC,Haryana,Sonipat,Ganaur,131102,29,76,Free,5184ae4e-2e52-4256-8dc8-86db5dcf79a3,91,18,,03/05/2021 05:11:49
+0,03-05-2021,19726,PHC SARAGTHAL,Haryana,Sonipat,Gohana,131305,29,76,Free,8d2fdc85-eb45-4a17-a950-90d533501c2e,100,18,,03/05/2021 05:11:49
+0,03-05-2021,19667,Farmana PHC Covishield,Haryana,Sonipat,Kharkhoda,131408,28,76,Free,003b7494-5415-4d6a-8672-dc14606a82ab,108,18,,03/05/2021 05:11:49
+0,04-05-2021,19667,Farmana PHC Covishield,Haryana,Sonipat,Kharkhoda,131408,28,76,Free,a373bb40-e6b3-48c7-a837-0b791e54bf0b,102,18,,03/05/2021 05:11:49
+0,03-05-2021,19573,Murthal PHC Covishield,Haryana,Sonipat,Juan,131027,29,77,Free,963d1faa-93f4-46ed-8333-8f64c8579789,78,18,,03/05/2021 05:11:49
+0,03-05-2021,683620,Jagsi PHC Covishield,Haryana,Sonipat,Mundlana,131306,29,76,Free,abddfaec-5552-4541-b9dc-58778a487460,84,18,,03/05/2021 05:11:49
+0,04-05-2021,683620,Jagsi PHC Covishield,Haryana,Sonipat,Mundlana,131306,29,76,Free,131619a4-1b88-4775-9660-b4b94a567fda,93,18,,03/05/2021 05:11:49
+0,03-05-2021,19422,Juan CHC,Haryana,Sonipat,Juan,131024,29,76,Free,c47ca542-f60f-460b-8bca-2d3ce8e0d9fe,231,18,,03/05/2021 05:11:49
+0,03-05-2021,11602,PHC Ahulana,Haryana,Sonipat,Ganaur,131102,29,76,Free,27682ea6-aa9a-4f46-b1f6-22ec4830ccf5,98,18,,03/05/2021 05:11:49
+0,03-05-2021,19660,Butana PHC,Haryana,Sonipat,Mundlana,131302,29,76,Free,d26dfec5-16c5-473c-a4e3-583f39046245,6,18,,03/05/2021 05:11:49
+0,04-05-2021,19660,Butana PHC,Haryana,Sonipat,Mundlana,131302,29,76,Free,a644d53b-5806-4f34-8923-71391067f3af,50,18,,03/05/2021 05:11:49
+0,03-05-2021,19721,Rajlu Garhi PHC,Haryana,Sonipat,Ganaur,131101,29,77,Free,4ef35078-e9b5-4ff9-b8ec-708aaf639624,57,18,,03/05/2021 05:11:49
+0,03-05-2021,571695,Purkhash PHC,Haryana,Sonipat,Ganaur,131102,29,76,Free,74bc0276-6246-4b79-bcab-43a421757ae5,89,18,,03/05/2021 05:11:49
+0,03-05-2021,19697,Lath PHC,Haryana,Sonipat,Gohana,131301,29,76,Free,cc6a91b9-2dd6-4eb3-9b20-b3abc39f795c,109,18,,03/05/2021 05:11:49
+0,03-05-2021,569716,Rohat PHC,Haryana,Sonipat,Firozpur Bangar,131402,28,76,Free,a4e46a10-8bc0-408c-b5b6-d391b9b19873,7,18,,03/05/2021 05:11:49
+0,03-05-2021,19666,Dubheta PHC,Haryana,Sonipat,Ganaur,131102,29,76,Free,c33a7873-2efd-4c52-ad9b-be0f15f6f0e5,91,18,,03/05/2021 05:11:49
+0,03-05-2021,19426,Murthal PHC,Haryana,Sonipat,Juan,131027,29,77,Free,875ed9f0-8c93-41b1-844c-0badd64d69cf,20,18,,03/05/2021 05:11:49
+0,03-05-2021,629661,PHC Shamri,Haryana,Sonipat,Mundlana,131306,29,76,Free,d70929d4-5ca7-47ce-97df-954daef4aecd,60,18,,03/05/2021 05:11:49
+0,04-05-2021,629661,PHC Shamri,Haryana,Sonipat,Mundlana,131306,29,76,Free,1bb68e77-4cb1-4a61-bc97-9822eadec119,99,18,,03/05/2021 05:11:49
+0,03-05-2021,19427,Rukhi PHC,Haryana,Sonipat,Gohana,131301,29,76,Free,d38017d9-f1a7-4b13-aeae-bfa8943c4d6b,71,18,,03/05/2021 05:11:49
+0,04-05-2021,19427,Rukhi PHC,Haryana,Sonipat,Gohana,131301,29,76,Free,8e2ab63c-c916-484d-b279-2220e99a7759,89,18,,03/05/2021 05:11:49
+0,03-05-2021,627575,RASOOLPUR PHC,Haryana,Yamunanagar,Sadhaura,133204,30,77,Free,3ef5caec-cd64-4d8e-85fc-34e786eaeff8,27,18,,03/05/2021 05:11:49
+0,03-05-2021,90578,Rattuwala Sub Center,Haryana,Yamunanagar,Sadhaura,133204,30,77,Free,b1088d23-d8c0-4768-95c6-45591742f05a,53,18,,03/05/2021 05:11:49
+0,03-05-2021,83767,Captain Majri,Haryana,Yamunanagar,Sadhaura,133204,30,77,Free,79f4df04-3020-470e-ba8a-4e188afc4c7a,46,18,,03/05/2021 05:11:49
+0,03-05-2021,627833,KALESAR SUB CENTER,Haryana,Yamunanagar,Partap Nagar,135021,30,77,Free,3cadafdd-72c0-4924-866c-a81a3ab795df,27,18,,03/05/2021 05:11:49
+0,03-05-2021,95389,Hangoli Sub Center,Haryana,Yamunanagar,Saraswati Nagar,133103,30,77,Free,7f1999eb-898f-4887-ae7c-acb2ed979e90,52,18,,03/05/2021 05:11:49
+0,03-05-2021,95434,Kotter Khanna Subcenter,Haryana,Yamunanagar,Saraswati Nagar,133103,30,77,Free,63dddc83-e42d-4f34-831e-62d23c75fb9e,29,18,,03/05/2021 05:11:49
+0,03-05-2021,97318,DHEEMO SUB CENTER,Haryana,Yamunanagar,Partap Nagar,135021,30,77,Free,4667481c-7376-41b3-b419-c7150826eee6,23,18,,03/05/2021 05:11:49
+0,03-05-2021,565660,Haibatpur PHC New,Haryana,Yamunanagar,Bilaspur,135102,30,77,Free,997f7cbb-2ecf-4d98-8242-492f99dfc962,2,18,,03/05/2021 05:11:49
+0,03-05-2021,566189,Kot PHC New,Haryana,Yamunanagar,Partap Nagar,135103,30,77,Free,19cf9589-038e-4408-ae4a-05eb8f71f7ce,70,18,,03/05/2021 05:11:49
+0,03-05-2021,92967,SANDHALI SUB CENTER,Haryana,Yamunanagar,Radaour,135133,29,77,Free,37ce37f7-fafc-4817-a133-3d230850cb3d,1,18,,03/05/2021 05:11:49
+0,03-05-2021,81790,Malikpur Khadar,Haryana,Yamunanagar,Partap Nagar,135106,30,77,Free,bf54a38d-340c-422b-b159-cccd9af42ea1,40,18,,03/05/2021 05:11:49
+0,03-05-2021,97343,BAKKARWALA SUB CENTER,Haryana,Yamunanagar,Partap Nagar,135021,30,77,Free,1619350d-900f-4f58-93a6-974168aaf47c,38,18,,03/05/2021 05:11:49
+0,06-05-2021,694010,Chowki Choura 2 For Covaxin,Jammu and Kashmir,Jammu,Chowki Choura,185154,32,74,Free,55ebf28d-2716-4a3d-8035-072b7210d054,85,18,,03/05/2021 05:11:49
+0,07-05-2021,694010,Chowki Choura 2 For Covaxin,Jammu and Kashmir,Jammu,Chowki Choura,185154,32,74,Free,ab916fdd-34ae-419b-8ca2-d35e493d0d53,134,18,,03/05/2021 05:11:49
+0,08-05-2021,694010,Chowki Choura 2 For Covaxin,Jammu and Kashmir,Jammu,Chowki Choura,185154,32,74,Free,d7203fa2-217b-41cc-a095-a25b52f3f1cb,86,18,,03/05/2021 05:11:49
+0,03-05-2021,142842,NTPHC SUKRALA,Jammu and Kashmir,Kathua,Bilawar CHC,184204,32,75,Free,cfd6db2c-0708-4122-a310-53aaa0dc47aa,3,18,,03/05/2021 05:11:49
+0,04-05-2021,142842,NTPHC SUKRALA,Jammu and Kashmir,Kathua,Bilawar CHC,184204,32,75,Free,06e7bfaf-e90e-498a-b5b8-8e4bb38ffa4a,28,18,,03/05/2021 05:11:49
+0,05-05-2021,142842,NTPHC SUKRALA,Jammu and Kashmir,Kathua,Bilawar CHC,184204,32,75,Free,8cb768e8-d089-4948-a63d-93dc508e2159,40,18,,03/05/2021 05:11:49
+0,06-05-2021,142842,NTPHC SUKRALA,Jammu and Kashmir,Kathua,Bilawar CHC,184204,32,75,Free,3fb8d920-fbbf-4751-a88b-346727df7982,42,18,,03/05/2021 05:11:49
+0,07-05-2021,142842,NTPHC SUKRALA,Jammu and Kashmir,Kathua,Bilawar CHC,184204,32,75,Free,186a6f8c-2d27-4600-8ab1-a2dbc957e623,41,18,,03/05/2021 05:11:49
+0,09-05-2021,142842,NTPHC SUKRALA,Jammu and Kashmir,Kathua,Bilawar CHC,184204,32,75,Free,09d4b5cc-8d10-4235-b32a-de3c439006a5,30,18,,03/05/2021 05:11:49
+0,03-05-2021,693506,Boys Middle School Hazratbal,Jammu and Kashmir,Srinagar,Hazaratbal,190006,34,74,Free,be36fe6b-2861-4d2c-871b-14a852fe6c52,1,18,,03/05/2021 05:11:49
+0,04-05-2021,693506,Boys Middle School Hazratbal,Jammu and Kashmir,Srinagar,Hazaratbal,190006,34,74,Free,5b4809e7-f3d3-4bc5-879f-ddae5f9cbbbb,160,18,,03/05/2021 05:11:49
+0,05-05-2021,693506,Boys Middle School Hazratbal,Jammu and Kashmir,Srinagar,Hazaratbal,190006,34,74,Free,9cfcf8ee-a584-4ed2-8d1b-370739839a85,193,18,,03/05/2021 05:11:49
+0,06-05-2021,693506,Boys Middle School Hazratbal,Jammu and Kashmir,Srinagar,Hazaratbal,190006,34,74,Free,ad856b1d-2ede-4477-88d9-a9ece929e1a9,231,18,,03/05/2021 05:11:49
+0,07-05-2021,693506,Boys Middle School Hazratbal,Jammu and Kashmir,Srinagar,Hazaratbal,190006,34,74,Free,6bfc41c0-8c7e-47d2-b1a1-18cc0c641246,249,18,,03/05/2021 05:11:49
+0,08-05-2021,693506,Boys Middle School Hazratbal,Jammu and Kashmir,Srinagar,Hazaratbal,190006,34,74,Free,04a1150d-ed4c-4c59-adf8-1abe999be9ed,248,18,,03/05/2021 05:11:49
+0,09-05-2021,693506,Boys Middle School Hazratbal,Jammu and Kashmir,Srinagar,Hazaratbal,190006,34,74,Free,26a32f0c-6948-416d-a43e-2103c75d2164,250,18,,03/05/2021 05:11:49
+0,07-05-2021,172674,G.B Panth Hospital,Jammu and Kashmir,Srinagar,Batamaloo,190001,34,74,Free,e824312d-5dd9-4561-9158-db55d962e703,111,18,,03/05/2021 05:11:49
+0,08-05-2021,172674,G.B Panth Hospital,Jammu and Kashmir,Srinagar,Batamaloo,190001,34,74,Free,fb267a02-73f2-473a-80dd-5f3d4c42dab4,224,18,,03/05/2021 05:11:49
+0,03-05-2021,172695,Natipora SC 18-44yrs,Jammu and Kashmir,Srinagar,Batamaloo,190001,0,0,Free,1b95b38a-8ea1-4570-adc8-f1a28a899c94,32,18,,03/05/2021 05:11:49
+0,06-05-2021,172695,Natipora SC 18-44yrs,Jammu and Kashmir,Srinagar,Batamaloo,190001,0,0,Free,6d1add49-ae4b-4ce5-9ec8-bd1f8ed795d0,190,18,,03/05/2021 05:11:49
+0,08-05-2021,172695,Natipora SC 18-44yrs,Jammu and Kashmir,Srinagar,Batamaloo,190001,0,0,Free,be7f4f2a-96c6-4f4d-b633-e7bd7126aff3,195,18,,03/05/2021 05:11:49
+0,05-05-2021,693563,Girls Higher Sec Schl Batmalo,Jammu and Kashmir,Srinagar,Batamaloo,191202,0,0,Free,5f4ebc86-556a-4f34-a4c0-172a993ddacf,195,18,,03/05/2021 05:11:49
+0,06-05-2021,693563,Girls Higher Sec Schl Batmalo,Jammu and Kashmir,Srinagar,Batamaloo,191202,0,0,Free,53a79d91-8aa3-4a7d-8c84-f860565c9a97,215,18,,03/05/2021 05:11:49
+0,07-05-2021,693563,Girls Higher Sec Schl Batmalo,Jammu and Kashmir,Srinagar,Batamaloo,191202,0,0,Free,c6a12c60-456c-449c-aa5f-0bbf0469d875,187,18,,03/05/2021 05:11:49
+0,08-05-2021,693563,Girls Higher Sec Schl Batmalo,Jammu and Kashmir,Srinagar,Batamaloo,191202,0,0,Free,81e0c49f-7322-4ac8-8017-37e4979a2d3e,216,18,,03/05/2021 05:11:49
+0,04-05-2021,693439,Community Hall Illahi Bagh,Jammu and Kashmir,Srinagar,Zadibal,191202,0,0,Free,3f60480a-237e-4c98-a951-ad0330cf4757,103,18,,03/05/2021 05:11:49
+0,05-05-2021,693439,Community Hall Illahi Bagh,Jammu and Kashmir,Srinagar,Zadibal,191202,0,0,Free,94e9c92f-ccc9-49fb-9482-80136ad63d23,211,18,,03/05/2021 05:11:49
+0,06-05-2021,693439,Community Hall Illahi Bagh,Jammu and Kashmir,Srinagar,Zadibal,191202,0,0,Free,d86833fa-da8f-4190-848e-d42a0fc2d6b8,239,18,,03/05/2021 05:11:49
+0,07-05-2021,693439,Community Hall Illahi Bagh,Jammu and Kashmir,Srinagar,Zadibal,191202,0,0,Free,2d6887eb-7896-4be5-9c44-ab5a4b511860,233,18,,03/05/2021 05:11:49
+0,08-05-2021,693439,Community Hall Illahi Bagh,Jammu and Kashmir,Srinagar,Zadibal,191202,0,0,Free,641f8a1e-e4da-4da5-a3a4-18d05f55f322,240,18,,03/05/2021 05:11:49
+0,05-05-2021,693432,HEALTH CENTER MISKEENBAGH,Jammu and Kashmir,Srinagar,Khanyar,190003,34,74,Free,164a26e4-804a-4c48-876f-24a36222ac79,60,18,,03/05/2021 05:11:49
+0,07-05-2021,693432,HEALTH CENTER MISKEENBAGH,Jammu and Kashmir,Srinagar,Khanyar,190003,34,74,Free,06a527ff-21a9-4a45-849a-483fb093a01f,211,18,,03/05/2021 05:11:49
+0,09-05-2021,693432,HEALTH CENTER MISKEENBAGH,Jammu and Kashmir,Srinagar,Khanyar,190003,34,74,Free,d8d3aa78-d3fd-4e06-858c-6d1336957e6d,235,18,,03/05/2021 05:11:49
+0,03-05-2021,694128,Nishat PHC 18 Years,Jammu and Kashmir,Srinagar,Batamaloo,191121,34,74,Free,dce96deb-97c9-4eab-80b1-b16faaffe58e,204,18,,03/05/2021 05:11:49
+0,04-05-2021,694128,Nishat PHC 18 Years,Jammu and Kashmir,Srinagar,Batamaloo,191121,34,74,Free,f67b2763-b059-4345-88fc-a7d7085f9dea,227,18,,03/05/2021 05:11:49
+0,05-05-2021,694128,Nishat PHC 18 Years,Jammu and Kashmir,Srinagar,Batamaloo,191121,34,74,Free,923f4322-9687-4e92-8e20-0907c7973993,237,18,,03/05/2021 05:11:49
+0,04-05-2021,65933,State Cancer Institute Soura,Jammu and Kashmir,Srinagar,Zadibal,190011,34,74,Free,77a4209a-0e04-4eef-a245-6837364661a5,210,18,,03/05/2021 05:11:49
+0,05-05-2021,65933,State Cancer Institute Soura,Jammu and Kashmir,Srinagar,Zadibal,190011,34,74,Free,642fa014-f1f5-4f16-972f-9ccbe71aa911,230,18,,03/05/2021 05:11:49
+0,06-05-2021,65933,State Cancer Institute Soura,Jammu and Kashmir,Srinagar,Zadibal,190011,34,74,Free,e7b53e5a-f599-46f1-a7cb-54b065e8378d,238,18,,03/05/2021 05:11:49
+0,06-05-2021,65933,State Cancer Institute Soura,Jammu and Kashmir,Srinagar,Zadibal,190011,34,74,Free,c4ce7e2a-6666-4c35-afa7-ccb47312b24d,3,18,,03/05/2021 05:11:49
+0,07-05-2021,65933,State Cancer Institute Soura,Jammu and Kashmir,Srinagar,Zadibal,190011,34,74,Free,42fe18fa-5a33-4ea9-a01a-e31589e4aa12,8,18,,03/05/2021 05:11:49
+0,08-05-2021,65933,State Cancer Institute Soura,Jammu and Kashmir,Srinagar,Zadibal,190011,34,74,Free,4b4aa8eb-fca7-41ae-ac84-b9ae14a95308,98,18,,03/05/2021 05:11:49
+0,09-05-2021,65933,State Cancer Institute Soura,Jammu and Kashmir,Srinagar,Zadibal,190011,34,74,Free,20978151-f78c-447f-8433-b76dba0a994d,165,18,,03/05/2021 05:11:49
+0,04-05-2021,172584,SMHS Well Baby Clinic 18-44age,Jammu and Kashmir,Srinagar,Batamaloo,190010,34,74,Free,18a58b6d-e5f3-4e7b-a09d-6ba1b52665c9,1,18,,03/05/2021 05:11:49
+0,07-05-2021,172584,SMHS Well Baby Clinic 18-44age,Jammu and Kashmir,Srinagar,Batamaloo,190010,34,74,Free,57399e45-cfac-4c0d-bc9c-c4a06b38137e,1,18,,03/05/2021 05:11:49
+0,07-05-2021,692406,JP MEMORIAL HOSPITAL,Jharkhand,Hazaribagh,HAZARIBAGH,825301,23,85,Paid,b5605fd2-6f54-4dfc-80ed-1325735eebeb,60,18,COVISHIELD,03/05/2021 05:11:49
+0,09-05-2021,692406,JP MEMORIAL HOSPITAL,Jharkhand,Hazaribagh,HAZARIBAGH,825301,23,85,Paid,37d6649d-7527-4544-9e71-41601d01b3d0,93,18,COVISHIELD,03/05/2021 05:11:49
+0,05-05-2021,566547,Dodwad PHC,Karnataka,Belgaum,Bailhongal,591104,15,74,Free,79c773bc-2216-4968-986b-d6be7dd0dca2,33,18,,03/05/2021 05:11:49
+0,03-05-2021,654248,Test CVC 1,Lakshadweep,Agatti Island,Kavaratti,999991,19,72,Free,773e4488-cc05-416f-a9f7-bad156c67439,49,18,,03/05/2021 05:11:49
+0,03-05-2021,693561,Koregaon Phc(18 To 44 Years),Maharashtra,Gadchiroli,Wadsa,441207,17,73,Free,28b3a23f-750a-4292-87df-8c5da7e4a6ec,43,18,,03/05/2021 05:11:49
+0,04-05-2021,693561,Koregaon Phc(18 To 44 Years),Maharashtra,Gadchiroli,Wadsa,441207,17,73,Free,eeb09d7d-6fd2-4e5b-a980-e53ec7080981,95,18,,03/05/2021 05:11:49
+0,05-05-2021,693561,Koregaon Phc(18 To 44 Years),Maharashtra,Gadchiroli,Wadsa,441207,17,73,Free,9d88972b-1c42-46b3-8fa5-cf0e7f826e10,94,18,,03/05/2021 05:11:49
+0,06-05-2021,693561,Koregaon Phc(18 To 44 Years),Maharashtra,Gadchiroli,Wadsa,441207,17,73,Free,1e1e0bd2-e587-45ee-882e-db07f374e4f6,98,18,,03/05/2021 05:11:49
+0,07-05-2021,693561,Koregaon Phc(18 To 44 Years),Maharashtra,Gadchiroli,Wadsa,441207,17,73,Free,a1d8890e-66ae-428c-866d-fdee35d8053b,95,18,,03/05/2021 05:11:49
+0,08-05-2021,693561,Koregaon Phc(18 To 44 Years),Maharashtra,Gadchiroli,Wadsa,441207,17,73,Free,011ee1a3-f27b-4020-a909-4f357f424701,96,18,,03/05/2021 05:11:49
+0,03-05-2021,693967,Armori SDH (18 To 44 Years),Maharashtra,Gadchiroli,Armori,441208,20,79,Free,a3725d3c-8c23-41c8-855f-7ea3e92831f8,1,18,,03/05/2021 05:11:49
+0,04-05-2021,693967,Armori SDH (18 To 44 Years),Maharashtra,Gadchiroli,Armori,441208,20,79,Free,8584aa8c-974f-46ff-88ef-599724712c4d,72,18,,03/05/2021 05:11:49
+0,05-05-2021,693967,Armori SDH (18 To 44 Years),Maharashtra,Gadchiroli,Armori,441208,20,79,Free,e91bc188-e7b3-4cf1-9e22-91bafdc4ecbc,85,18,,03/05/2021 05:11:49
+0,06-05-2021,693967,Armori SDH (18 To 44 Years),Maharashtra,Gadchiroli,Armori,441208,20,79,Free,69edd0d3-c6ba-47ab-8548-e7c39d42db71,94,18,,03/05/2021 05:11:49
+0,07-05-2021,693967,Armori SDH (18 To 44 Years),Maharashtra,Gadchiroli,Armori,441208,20,79,Free,77e3cee7-957d-4129-90bf-78106497b65d,84,18,,03/05/2021 05:11:49
+0,08-05-2021,693967,Armori SDH (18 To 44 Years),Maharashtra,Gadchiroli,Armori,441208,20,79,Free,91965da0-7e47-4466-8c0f-116438d09010,97,18,,03/05/2021 05:11:49
+0,05-05-2021,693306,18-44 Age Only. Omerga SDH,Maharashtra,Osmanabad,Omerga,413606,17,76,Free,22e66f72-2f8f-419d-a2d7-43381a7f0b8b,1,18,,03/05/2021 05:11:49
+0,03-05-2021,693554,18-44 CHC GADISAWAIRAM RENI,Rajasthan,Alwar,Reni,301413,27,76,Free,df85dc68-3052-44ae-80d2-a7e8d9fd45f7,76,18,,03/05/2021 05:11:49
+0,03-05-2021,693598,18 JATWADA CHC KHERLI,Rajasthan,Alwar,Kherli,301035,27,76,Free,a485436e-a0f0-44e4-888b-291e330a9ac0,36,18,,03/05/2021 05:11:49
+0,03-05-2021,693611,18GSSS Ronijathan Block Kherli,Rajasthan,Alwar,Kherli,301035,27,77,Free,3fe9ec12-c367-43e1-b961-03a722015022,93,18,,03/05/2021 05:11:49
+0,03-05-2021,693778,18-44 PHC PADA RENI,Rajasthan,Alwar,Reni,301409,27,76,Free,56301e01-f5a8-44ca-bdd6-05eb00d6e8b6,48,18,,03/05/2021 05:11:49
+0,03-05-2021,693587,18 KHONKAR PHC KHERLI,Rajasthan,Alwar,Kherli,301035,27,76,Free,92814e16-9049-419c-929c-de0de1e99b43,82,18,,03/05/2021 05:11:49
+0,03-05-2021,693584,18 BAYTHUKALAN PHC KHERLI,Rajasthan,Alwar,Kherli,321605,27,76,Free,e18f5a1a-5df7-4922-8e05-c48ca89edc82,38,18,,03/05/2021 05:11:49
+0,03-05-2021,693593,18 TASAI PHC KHERLI,Rajasthan,Alwar,Kherli,321605,27,77,Free,95e64421-765e-4eb1-9008-6ec38725fae9,92,18,,03/05/2021 05:11:49
+0,03-05-2021,693588,18 MASARI PHC KHERLI,Rajasthan,Alwar,Kherli,321605,27,77,Free,8fc0c986-3009-433f-8519-d1ee6f0f2ec5,76,18,,03/05/2021 05:11:49
+0,03-05-2021,693586,18 KALWARI PHC KHERLI,Rajasthan,Alwar,Kherli,321606,27,76,Free,7343dfe1-710e-40b9-9bfc-dd6daa3ed7a7,44,18,,03/05/2021 05:11:49
+0,03-05-2021,693553,18-44 CHC PINAN RENI,Rajasthan,Alwar,Reni,301413,27,76,Free,19d214a1-bf58-4702-ab42-0feba2f18a60,49,18,,03/05/2021 05:11:49
+0,03-05-2021,693589,18 RAMNAGAR PHC KHERLI,Rajasthan,Alwar,Kherli,321605,27,75,Free,3779e8f2-d188-43d6-ab55-ea0978497653,95,18,,03/05/2021 05:11:49
+0,03-05-2021,693770,18-44 PHC JAMDOLI RENI,Rajasthan,Alwar,Reni,301409,26,76,Free,7f46aef8-a0f7-4465-9dbb-70144bb52850,144,18,,03/05/2021 05:11:49
+0,03-05-2021,585281,KHATOLI CHC (18-44 Yrs),Rajasthan,Kota,Itawa,325009,25,76,Free,30bdcf3d-1e28-47bf-88cf-fd34e940d62b,50,18,,03/05/2021 05:11:49
+0,04-05-2021,585281,KHATOLI CHC (18-44 Yrs),Rajasthan,Kota,Itawa,325009,25,76,Free,78e8c643-a127-4820-830f-bb6c5917cf74,116,18,,03/05/2021 05:11:49
+0,03-05-2021,585309,SUKET CHC (18-44 Yrs),Rajasthan,Kota,Khairabad,326530,24,76,Free,74e9c900-7a00-4eba-8e39-530af47cc70d,54,18,,03/05/2021 05:11:49
+0,04-05-2021,585309,SUKET CHC (18-44 Yrs),Rajasthan,Kota,Khairabad,326530,24,76,Free,3d76f630-dabb-4df5-be5f-67e59ce1d45c,91,18,,03/05/2021 05:11:49
+0,03-05-2021,53155,DESURI- CHC,Rajasthan,Pali,Desuri,306703,25,73,Free,87d0cd91-0da2-4184-b225-0e4cc55b02ea,330,18,,03/05/2021 05:11:49
+0,03-05-2021,572782,NADOL CHC BOOTH-1,Rajasthan,Pali,Desuri,306603,25,73,Free,42041d28-0f88-4310-9fcc-b08717c1404e,358,18,,03/05/2021 05:11:49
+0,03-05-2021,432998,FTR BIBIPUR BADA PHC,Rajasthan,Sikar,Fatehpur,332317,27,74,Free,db8a0a5e-8a04-4ec5-938e-19e655eb58a3,1,18,,03/05/2021 05:11:49
+0,03-05-2021,211682,Kotra CHC,Rajasthan,Udaipur,Kotra,307025,23,73,Free,40b458ea-3f71-4124-843f-3130a87ccbe4,4,18,,03/05/2021 05:11:49
+0,04-05-2021,211682,Kotra CHC,Rajasthan,Udaipur,Kotra,307025,23,73,Free,453bc4a8-d2c5-4fc4-96cb-9f7ee65cd975,51,18,,03/05/2021 05:11:49
+0,04-05-2021,609588,Padrada CHC,Rajasthan,Udaipur,Gogunda,313704,24,73,Free,1eb1a11e-b940-49e2-898d-f72c56a97add,4,18,,03/05/2021 05:11:49
+0,03-05-2021,543783,CHC GOLA,Uttar Pradesh,Gorakhpur,Gola,273408,26,83,Free,53d07278-cacd-4e8c-86bf-00cf33aaac2a,91,18,,03/05/2021 05:11:49
+0,03-05-2021,610968,APHC NEWAIJPAR,Uttar Pradesh,Gorakhpur,Gola,273408,26,83,Free,a1a625af-668b-4809-bb51-a8cee47b7ff6,201,18,,03/05/2021 05:11:49
+0,03-05-2021,610961,APHC GOLA CHILWA,Uttar Pradesh,Gorakhpur,Gola,273408,26,83,Free,30f00b80-0e1f-467f-b9dd-187c61c27c06,70,18,,03/05/2021 05:11:49
+0,03-05-2021,692693,CVC UHM HOSPITAL CX 18-44,Uttar Pradesh,Kanpur Nagar,Kanpur City,208001,26,80,Free,aee91cc5-e283-400e-8a7b-2759da0d1406,1,18,,03/05/2021 05:11:49
+0,07-05-2021,561133,MLN Medical College1 18 To 44,Uttar Pradesh,Prayagraj,DHQ Prayagraj,211003,25,81,Free,3cf0cb96-2cfe-457a-aee4-eb5da201db34,266,18,,03/05/2021 05:11:49
+0,08-05-2021,561133,MLN Medical College1 18 To 44,Uttar Pradesh,Prayagraj,DHQ Prayagraj,211003,25,81,Free,db3d9dba-6c48-466e-8f70-9a09ced398b5,342,18,,03/05/2021 05:11:49
+0,07-05-2021,692501,PHC JHUNSI 18-44,Uttar Pradesh,Prayagraj,Kotva at Bani,221505,25,81,Free,a91f8efc-4398-49af-95d7-ab0e79954e67,18,18,,03/05/2021 05:11:49
+0,08-05-2021,692501,PHC JHUNSI 18-44,Uttar Pradesh,Prayagraj,Kotva at Bani,221505,25,81,Free,e105b347-2e74-48db-bb06-848503b9bb2c,115,18,,03/05/2021 05:11:49
+0,06-05-2021,566432,CHC KOTWA AT BANI 18-44,Uttar Pradesh,Prayagraj,Bahadurpur,221505,25,81,Free,ddaad3b0-2a1f-41ce-8c00-120fb69b832d,133,18,,03/05/2021 05:11:49
+0,07-05-2021,566432,CHC KOTWA AT BANI 18-44,Uttar Pradesh,Prayagraj,Bahadurpur,221505,25,81,Free,2d4a68f8-1187-4709-a021-5f70edeb4146,180,18,,03/05/2021 05:11:49
+0,08-05-2021,566432,CHC KOTWA AT BANI 18-44,Uttar Pradesh,Prayagraj,Bahadurpur,221505,25,81,Free,5d9c5784-5d2b-409e-a492-53b1493b91db,137,18,,03/05/2021 05:11:49
+0,06-05-2021,630095,MDI HOSPITAL 18 To 44 Session,Uttar Pradesh,Prayagraj,DHQ Prayagraj,211003,25,81,Free,d3b99e62-9854-47c5-8272-8a4eabb20062,2,18,,03/05/2021 05:11:49
+0,07-05-2021,630095,MDI HOSPITAL 18 To 44 Session,Uttar Pradesh,Prayagraj,DHQ Prayagraj,211003,25,81,Free,45c77afa-91af-450c-9527-93b79886e74d,149,18,,03/05/2021 05:11:49
+0,08-05-2021,630095,MDI HOSPITAL 18 To 44 Session,Uttar Pradesh,Prayagraj,DHQ Prayagraj,211003,25,81,Free,9a8fc3d2-11fe-462e-bf97-a7e5f821d56a,90,18,,03/05/2021 05:11:49
+0,04-05-2021,573835,CHC Jasra 18-44,Uttar Pradesh,Prayagraj,Jasra,212107,25,81,Free,91d9ea77-84f2-4bcc-9a9d-d15a126d1ab5,12,18,,03/05/2021 05:11:49
+0,05-05-2021,573835,CHC Jasra 18-44,Uttar Pradesh,Prayagraj,Jasra,212107,25,81,Free,d13415b1-9c75-4944-93c8-a01b0847bd37,145,18,,03/05/2021 05:11:49
+0,06-05-2021,573835,CHC Jasra 18-44,Uttar Pradesh,Prayagraj,Jasra,212107,25,81,Free,0acf6063-37b1-46dc-b620-cd013b5822f2,171,18,,03/05/2021 05:11:49
+0,07-05-2021,573835,CHC Jasra 18-44,Uttar Pradesh,Prayagraj,Jasra,212107,25,81,Free,34fd2411-802d-4b8c-8cb7-7ff4c0416995,168,18,,03/05/2021 05:11:49
+0,08-05-2021,573835,CHC Jasra 18-44,Uttar Pradesh,Prayagraj,Jasra,212107,25,81,Free,936c253c-9724-4088-83e1-b289125f65dd,139,18,,03/05/2021 05:11:49
+0,04-05-2021,692709,PHC SEWAPURI (18 To 44 ),Uttar Pradesh,Varanasi,sewapuri,221103,25,83,Free,269cacc9-0557-47bb-a9eb-70325b545f89,39,18,,03/05/2021 05:11:49
+0,05-05-2021,692709,PHC SEWAPURI (18 To 44 ),Uttar Pradesh,Varanasi,sewapuri,221103,25,83,Free,35dc6b11-5798-40ab-9ce7-1069d804d2ef,158,18,,03/05/2021 05:11:49
+0,06-05-2021,692709,PHC SEWAPURI (18 To 44 ),Uttar Pradesh,Varanasi,sewapuri,221103,25,83,Free,1844e9b6-18a1-4477-a0b7-262ea24d83c2,140,18,,03/05/2021 05:11:49
+0,06-05-2021,692705,PHC PINDRA (18 To 44 ),Uttar Pradesh,Varanasi,Pindra PHC,221103,25,83,Free,59d325ae-c49b-483c-b3d7-f22756ad7a0d,46,18,,03/05/2021 05:11:49
